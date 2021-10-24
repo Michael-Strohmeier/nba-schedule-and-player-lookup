@@ -6,6 +6,8 @@ data scraped from:
   - https://www.basketball-reference.com/leagues/NBA_2022_games-october.html
 
 ### What it does
+![alt text](https://github.com/Michael-Strohmeier/nba-schedule-and-player-lookup/blob/main/Screen%20Shot%202021-10-24%20at%207.33.31%20PM.png)
+
 so far you can lookup a player and find the team they are on
   - player -> team
 
