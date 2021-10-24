@@ -1,0 +1,1231 @@
+,date,away,home,time
+0,"Tue, Oct 19, 2021",Brooklyn Nets,Milwaukee Bucks,7:30p
+1,"Tue, Oct 19, 2021",Golden State Warriors,Los Angeles Lakers,10:00p
+2,"Wed, Oct 20, 2021",Indiana Pacers,Charlotte Hornets,7:00p
+3,"Wed, Oct 20, 2021",Chicago Bulls,Detroit Pistons,7:00p
+4,"Wed, Oct 20, 2021",Boston Celtics,New York Knicks,7:30p
+5,"Wed, Oct 20, 2021",Washington Wizards,Toronto Raptors,7:30p
+6,"Wed, Oct 20, 2021",Cleveland Cavaliers,Memphis Grizzlies,8:00p
+7,"Wed, Oct 20, 2021",Houston Rockets,Minnesota Timberwolves,8:00p
+8,"Wed, Oct 20, 2021",Philadelphia 76ers,New Orleans Pelicans,8:00p
+9,"Wed, Oct 20, 2021",Orlando Magic,San Antonio Spurs,8:30p
+10,"Wed, Oct 20, 2021",Oklahoma City Thunder,Utah Jazz,9:00p
+11,"Wed, Oct 20, 2021",Sacramento Kings,Portland Trail Blazers,10:00p
+12,"Wed, Oct 20, 2021",Denver Nuggets,Phoenix Suns,10:00p
+13,"Thu, Oct 21, 2021",Dallas Mavericks,Atlanta Hawks,7:30p
+14,"Thu, Oct 21, 2021",Milwaukee Bucks,Miami Heat,8:00p
+15,"Thu, Oct 21, 2021",Los Angeles Clippers,Golden State Warriors,10:00p
+16,"Fri, Oct 22, 2021",New York Knicks,Orlando Magic,7:00p
+17,"Fri, Oct 22, 2021",Indiana Pacers,Washington Wizards,7:00p
+18,"Fri, Oct 22, 2021",Charlotte Hornets,Cleveland Cavaliers,7:00p
+19,"Fri, Oct 22, 2021",Toronto Raptors,Boston Celtics,7:30p
+20,"Fri, Oct 22, 2021",Brooklyn Nets,Philadelphia 76ers,7:30p
+21,"Fri, Oct 22, 2021",Oklahoma City Thunder,Houston Rockets,8:00p
+22,"Fri, Oct 22, 2021",New Orleans Pelicans,Chicago Bulls,8:00p
+23,"Fri, Oct 22, 2021",San Antonio Spurs,Denver Nuggets,9:00p
+24,"Fri, Oct 22, 2021",Phoenix Suns,Los Angeles Lakers,10:00p
+25,"Fri, Oct 22, 2021",Utah Jazz,Sacramento Kings,10:00p
+26,"Sat, Oct 23, 2021",Atlanta Hawks,Cleveland Cavaliers,6:00p
+27,"Sat, Oct 23, 2021",Miami Heat,Indiana Pacers,7:00p
+28,"Sat, Oct 23, 2021",Dallas Mavericks,Toronto Raptors,7:30p
+29,"Sat, Oct 23, 2021",Detroit Pistons,Chicago Bulls,8:00p
+30,"Sat, Oct 23, 2021",New Orleans Pelicans,Minnesota Timberwolves,8:00p
+31,"Sat, Oct 23, 2021",Milwaukee Bucks,San Antonio Spurs,8:30p
+32,"Sat, Oct 23, 2021",Phoenix Suns,Portland Trail Blazers,10:00p
+33,"Sat, Oct 23, 2021",Memphis Grizzlies,Los Angeles Clippers,10:30p
+34,"Sun, Oct 24, 2021",Charlotte Hornets,Brooklyn Nets,4:00p
+35,"Sun, Oct 24, 2021",Boston Celtics,Houston Rockets,7:00p
+36,"Sun, Oct 24, 2021",Orlando Magic,New York Knicks,7:00p
+37,"Sun, Oct 24, 2021",Philadelphia 76ers,Oklahoma City Thunder,7:00p
+38,"Sun, Oct 24, 2021",Golden State Warriors,Sacramento Kings,9:00p
+39,"Sun, Oct 24, 2021",Memphis Grizzlies,Los Angeles Lakers,9:30p
+40,"Mon, Oct 25, 2021",Boston Celtics,Charlotte Hornets,7:00p
+41,"Mon, Oct 25, 2021",Milwaukee Bucks,Indiana Pacers,7:00p
+42,"Mon, Oct 25, 2021",Chicago Bulls,Toronto Raptors,7:30p
+43,"Mon, Oct 25, 2021",Orlando Magic,Miami Heat,7:30p
+44,"Mon, Oct 25, 2021",Washington Wizards,Brooklyn Nets,7:30p
+45,"Mon, Oct 25, 2021",Detroit Pistons,Atlanta Hawks,7:30p
+46,"Mon, Oct 25, 2021",New Orleans Pelicans,Minnesota Timberwolves,8:00p
+47,"Mon, Oct 25, 2021",Cleveland Cavaliers,Denver Nuggets,9:00p
+48,"Mon, Oct 25, 2021",Portland Trail Blazers,Los Angeles Clippers,10:30p
+49,"Tue, Oct 26, 2021",Philadelphia 76ers,New York Knicks,7:30p
+50,"Tue, Oct 26, 2021",Golden State Warriors,Oklahoma City Thunder,8:00p
+51,"Tue, Oct 26, 2021",Los Angeles Lakers,San Antonio Spurs,8:30p
+52,"Tue, Oct 26, 2021",Houston Rockets,Dallas Mavericks,8:30p
+53,"Tue, Oct 26, 2021",Denver Nuggets,Utah Jazz,10:00p
+54,"Wed, Oct 27, 2021",Charlotte Hornets,Orlando Magic,7:00p
+55,"Wed, Oct 27, 2021",Washington Wizards,Boston Celtics,7:30p
+56,"Wed, Oct 27, 2021",Miami Heat,Brooklyn Nets,7:30p
+57,"Wed, Oct 27, 2021",Indiana Pacers,Toronto Raptors,7:30p
+58,"Wed, Oct 27, 2021",Atlanta Hawks,New Orleans Pelicans,7:30p
+59,"Wed, Oct 27, 2021",Minnesota Timberwolves,Milwaukee Bucks,8:00p
+60,"Wed, Oct 27, 2021",Los Angeles Lakers,Oklahoma City Thunder,8:00p
+61,"Wed, Oct 27, 2021",Sacramento Kings,Phoenix Suns,10:00p
+62,"Wed, Oct 27, 2021",Memphis Grizzlies,Portland Trail Blazers,10:00p
+63,"Wed, Oct 27, 2021",Cleveland Cavaliers,Los Angeles Clippers,10:30p
+64,"Thu, Oct 28, 2021",Atlanta Hawks,Washington Wizards,7:00p
+65,"Thu, Oct 28, 2021",Detroit Pistons,Philadelphia 76ers,7:00p
+66,"Thu, Oct 28, 2021",Utah Jazz,Houston Rockets,8:00p
+67,"Thu, Oct 28, 2021",New York Knicks,Chicago Bulls,8:00p
+68,"Thu, Oct 28, 2021",San Antonio Spurs,Dallas Mavericks,8:30p
+69,"Thu, Oct 28, 2021",Memphis Grizzlies,Golden State Warriors,10:00p
+70,"Fri, Oct 29, 2021",Orlando Magic,Toronto Raptors,7:00p
+71,"Fri, Oct 29, 2021",Charlotte Hornets,Miami Heat,7:30p
+72,"Fri, Oct 29, 2021",Indiana Pacers,Brooklyn Nets,7:30p
+73,"Fri, Oct 29, 2021",Sacramento Kings,New Orleans Pelicans,8:00p
+74,"Fri, Oct 29, 2021",Dallas Mavericks,Denver Nuggets,10:00p
+75,"Fri, Oct 29, 2021",Los Angeles Clippers,Portland Trail Blazers,10:00p
+76,"Fri, Oct 29, 2021",Cleveland Cavaliers,Los Angeles Lakers,10:30p
+77,"Sat, Oct 30, 2021",Boston Celtics,Washington Wizards,5:00p
+78,"Sat, Oct 30, 2021",Orlando Magic,Detroit Pistons,7:00p
+79,"Sat, Oct 30, 2021",New York Knicks,New Orleans Pelicans,7:00p
+80,"Sat, Oct 30, 2021",Toronto Raptors,Indiana Pacers,7:30p
+81,"Sat, Oct 30, 2021",Atlanta Hawks,Philadelphia 76ers,7:30p
+82,"Sat, Oct 30, 2021",Utah Jazz,Chicago Bulls,8:00p
+83,"Sat, Oct 30, 2021",Miami Heat,Memphis Grizzlies,8:00p
+84,"Sat, Oct 30, 2021",San Antonio Spurs,Milwaukee Bucks,8:00p
+85,"Sat, Oct 30, 2021",Oklahoma City Thunder,Golden State Warriors,8:30p
+86,"Sat, Oct 30, 2021",Denver Nuggets,Minnesota Timberwolves,9:00p
+87,"Sat, Oct 30, 2021",Cleveland Cavaliers,Phoenix Suns,10:00p
+88,"Sun, Oct 31, 2021",Sacramento Kings,Dallas Mavericks,3:30p
+89,"Sun, Oct 31, 2021",Portland Trail Blazers,Charlotte Hornets,7:00p
+90,"Sun, Oct 31, 2021",Utah Jazz,Milwaukee Bucks,7:00p
+91,"Sun, Oct 31, 2021",Detroit Pistons,Brooklyn Nets,7:30p
+92,"Sun, Oct 31, 2021",Houston Rockets,Los Angeles Lakers,10:30p
+93,"Mon, Nov 1, 2021",Cleveland Cavaliers,Charlotte Hornets,7:00p
+94,"Mon, Nov 1, 2021",San Antonio Spurs,Indiana Pacers,7:00p
+95,"Mon, Nov 1, 2021",Portland Trail Blazers,Philadelphia 76ers,7:00p
+96,"Mon, Nov 1, 2021",Washington Wizards,Atlanta Hawks,7:30p
+97,"Mon, Nov 1, 2021",Chicago Bulls,Boston Celtics,7:30p
+98,"Mon, Nov 1, 2021",Toronto Raptors,New York Knicks,7:30p
+99,"Mon, Nov 1, 2021",Denver Nuggets,Memphis Grizzlies,8:00p
+100,"Mon, Nov 1, 2021",Orlando Magic,Minnesota Timberwolves,8:00p
+101,"Mon, Nov 1, 2021",Oklahoma City Thunder,Los Angeles Clippers,10:30p
+102,"Tue, Nov 2, 2021",Milwaukee Bucks,Detroit Pistons,7:00p
+103,"Tue, Nov 2, 2021",Miami Heat,Dallas Mavericks,7:30p
+104,"Tue, Nov 2, 2021",Sacramento Kings,Utah Jazz,9:00p
+105,"Tue, Nov 2, 2021",New Orleans Pelicans,Phoenix Suns,10:00p
+106,"Tue, Nov 2, 2021",Houston Rockets,Los Angeles Lakers,10:30p
+107,"Wed, Nov 3, 2021",Portland Trail Blazers,Cleveland Cavaliers,7:00p
+108,"Wed, Nov 3, 2021",New York Knicks,Indiana Pacers,7:00p
+109,"Wed, Nov 3, 2021",Boston Celtics,Orlando Magic,7:00p
+110,"Wed, Nov 3, 2021",Chicago Bulls,Philadelphia 76ers,7:00p
+111,"Wed, Nov 3, 2021",Toronto Raptors,Washington Wizards,7:00p
+112,"Wed, Nov 3, 2021",Atlanta Hawks,Brooklyn Nets,7:30p
+113,"Wed, Nov 3, 2021",Denver Nuggets,Memphis Grizzlies,8:00p
+114,"Wed, Nov 3, 2021",Los Angeles Clippers,Minnesota Timberwolves,8:00p
+115,"Wed, Nov 3, 2021",Dallas Mavericks,San Antonio Spurs,8:30p
+116,"Wed, Nov 3, 2021",Charlotte Hornets,Golden State Warriors,10:00p
+117,"Wed, Nov 3, 2021",New Orleans Pelicans,Sacramento Kings,10:00p
+118,"Thu, Nov 4, 2021",Philadelphia 76ers,Detroit Pistons,7:00p
+119,"Thu, Nov 4, 2021",Utah Jazz,Atlanta Hawks,7:30p
+120,"Thu, Nov 4, 2021",Boston Celtics,Miami Heat,7:30p
+121,"Thu, Nov 4, 2021",Houston Rockets,Phoenix Suns,10:00p
+122,"Thu, Nov 4, 2021",Oklahoma City Thunder,Los Angeles Lakers,10:30p
+123,"Fri, Nov 5, 2021",Brooklyn Nets,Detroit Pistons,7:00p
+124,"Fri, Nov 5, 2021",San Antonio Spurs,Orlando Magic,7:00p
+125,"Fri, Nov 5, 2021",Memphis Grizzlies,Washington Wizards,7:00p
+126,"Fri, Nov 5, 2021",New York Knicks,Milwaukee Bucks,7:30p
+127,"Fri, Nov 5, 2021",Cleveland Cavaliers,Toronto Raptors,7:30p
+128,"Fri, Nov 5, 2021",Los Angeles Clippers,Minnesota Timberwolves,8:00p
+129,"Fri, Nov 5, 2021",New Orleans Pelicans,Golden State Warriors,10:00p
+130,"Fri, Nov 5, 2021",Indiana Pacers,Portland Trail Blazers,10:00p
+131,"Fri, Nov 5, 2021",Charlotte Hornets,Sacramento Kings,10:00p
+132,"Sat, Nov 6, 2021",Houston Rockets,Denver Nuggets,5:00p
+133,"Sat, Nov 6, 2021",Utah Jazz,Miami Heat,7:30p
+134,"Sat, Nov 6, 2021",Philadelphia 76ers,Chicago Bulls,8:00p
+135,"Sat, Nov 6, 2021",Boston Celtics,Dallas Mavericks,8:30p
+136,"Sat, Nov 6, 2021",Atlanta Hawks,Phoenix Suns,10:00p
+137,"Sat, Nov 6, 2021",Los Angeles Lakers,Portland Trail Blazers,10:30p
+138,"Sun, Nov 7, 2021",Brooklyn Nets,Toronto Raptors,3:30p
+139,"Sun, Nov 7, 2021",Cleveland Cavaliers,New York Knicks,6:00p
+140,"Sun, Nov 7, 2021",Utah Jazz,Orlando Magic,6:00p
+141,"Sun, Nov 7, 2021",Indiana Pacers,Sacramento Kings,6:00p
+142,"Sun, Nov 7, 2021",Milwaukee Bucks,Washington Wizards,6:00p
+143,"Sun, Nov 7, 2021",San Antonio Spurs,Oklahoma City Thunder,7:00p
+144,"Sun, Nov 7, 2021",Houston Rockets,Golden State Warriors,8:30p
+145,"Sun, Nov 7, 2021",Charlotte Hornets,Los Angeles Clippers,9:00p
+146,"Mon, Nov 8, 2021",New York Knicks,Philadelphia 76ers,7:00p
+147,"Mon, Nov 8, 2021",Brooklyn Nets,Chicago Bulls,8:00p
+148,"Mon, Nov 8, 2021",Minnesota Timberwolves,Memphis Grizzlies,8:00p
+149,"Mon, Nov 8, 2021",New Orleans Pelicans,Dallas Mavericks,8:30p
+150,"Mon, Nov 8, 2021",Miami Heat,Denver Nuggets,9:00p
+151,"Mon, Nov 8, 2021",Atlanta Hawks,Golden State Warriors,10:00p
+152,"Mon, Nov 8, 2021",Phoenix Suns,Sacramento Kings,10:00p
+153,"Mon, Nov 8, 2021",Charlotte Hornets,Los Angeles Lakers,10:30p
+154,"Tue, Nov 9, 2021",Milwaukee Bucks,Philadelphia 76ers,7:30p
+155,"Tue, Nov 9, 2021",Atlanta Hawks,Utah Jazz,9:00p
+156,"Tue, Nov 9, 2021",Portland Trail Blazers,Los Angeles Clippers,10:00p
+157,"Wed, Nov 10, 2021",Washington Wizards,Cleveland Cavaliers,7:00p
+158,"Wed, Nov 10, 2021",Brooklyn Nets,Orlando Magic,7:00p
+159,"Wed, Nov 10, 2021",Toronto Raptors,Boston Celtics,7:30p
+160,"Wed, Nov 10, 2021",Detroit Pistons,Houston Rockets,7:30p
+161,"Wed, Nov 10, 2021",Milwaukee Bucks,New York Knicks,7:30p
+162,"Wed, Nov 10, 2021",Dallas Mavericks,Chicago Bulls,8:00p
+163,"Wed, Nov 10, 2021",Charlotte Hornets,Memphis Grizzlies,8:00p
+164,"Wed, Nov 10, 2021",Oklahoma City Thunder,New Orleans Pelicans,8:00p
+165,"Wed, Nov 10, 2021",Sacramento Kings,San Antonio Spurs,8:30p
+166,"Wed, Nov 10, 2021",Indiana Pacers,Denver Nuggets,9:00p
+167,"Wed, Nov 10, 2021",Portland Trail Blazers,Phoenix Suns,9:00p
+168,"Wed, Nov 10, 2021",Minnesota Timberwolves,Golden State Warriors,10:00p
+169,"Wed, Nov 10, 2021",Miami Heat,Los Angeles Lakers,10:00p
+170,"Thu, Nov 11, 2021",Toronto Raptors,Philadelphia 76ers,7:00p
+171,"Thu, Nov 11, 2021",Indiana Pacers,Utah Jazz,9:00p
+172,"Thu, Nov 11, 2021",Miami Heat,Los Angeles Clippers,10:30p
+173,"Fri, Nov 12, 2021",New York Knicks,Charlotte Hornets,7:00p
+174,"Fri, Nov 12, 2021",Milwaukee Bucks,Boston Celtics,7:30p
+175,"Fri, Nov 12, 2021",Detroit Pistons,Cleveland Cavaliers,7:30p
+176,"Fri, Nov 12, 2021",Portland Trail Blazers,Houston Rockets,8:00p
+177,"Fri, Nov 12, 2021",Phoenix Suns,Memphis Grizzlies,8:00p
+178,"Fri, Nov 12, 2021",Brooklyn Nets,New Orleans Pelicans,8:00p
+179,"Fri, Nov 12, 2021",Sacramento Kings,Oklahoma City Thunder,8:00p
+180,"Fri, Nov 12, 2021",Dallas Mavericks,San Antonio Spurs,8:30p
+181,"Fri, Nov 12, 2021",Atlanta Hawks,Denver Nuggets,9:00p
+182,"Fri, Nov 12, 2021",Chicago Bulls,Golden State Warriors,10:00p
+183,"Fri, Nov 12, 2021",Minnesota Timberwolves,Los Angeles Lakers,10:30p
+184,"Sat, Nov 13, 2021",Miami Heat,Utah Jazz,5:00p
+185,"Sat, Nov 13, 2021",Philadelphia 76ers,Indiana Pacers,7:00p
+186,"Sat, Nov 13, 2021",Memphis Grizzlies,New Orleans Pelicans,7:00p
+187,"Sat, Nov 13, 2021",Washington Wizards,Orlando Magic,7:00p
+188,"Sat, Nov 13, 2021",Detroit Pistons,Toronto Raptors,7:30p
+189,"Sat, Nov 13, 2021",Boston Celtics,Cleveland Cavaliers,8:00p
+190,"Sat, Nov 13, 2021",Minnesota Timberwolves,Los Angeles Clippers,10:30p
+191,"Sun, Nov 14, 2021",San Antonio Spurs,Los Angeles Lakers,3:30p
+192,"Sun, Nov 14, 2021",Milwaukee Bucks,Atlanta Hawks,6:00p
+193,"Sun, Nov 14, 2021",Golden State Warriors,Charlotte Hornets,7:00p
+194,"Sun, Nov 14, 2021",Phoenix Suns,Houston Rockets,7:00p
+195,"Sun, Nov 14, 2021",Brooklyn Nets,Oklahoma City Thunder,7:00p
+196,"Sun, Nov 14, 2021",Portland Trail Blazers,Denver Nuggets,8:00p
+197,"Sun, Nov 14, 2021",Chicago Bulls,Los Angeles Clippers,9:30p
+198,"Mon, Nov 15, 2021",Boston Celtics,Cleveland Cavaliers,7:00p
+199,"Mon, Nov 15, 2021",Sacramento Kings,Detroit Pistons,7:00p
+200,"Mon, Nov 15, 2021",New Orleans Pelicans,Washington Wizards,7:00p
+201,"Mon, Nov 15, 2021",Orlando Magic,Atlanta Hawks,7:30p
+202,"Mon, Nov 15, 2021",Indiana Pacers,New York Knicks,7:30p
+203,"Mon, Nov 15, 2021",Denver Nuggets,Dallas Mavericks,8:00p
+204,"Mon, Nov 15, 2021",Houston Rockets,Memphis Grizzlies,8:00p
+205,"Mon, Nov 15, 2021",Phoenix Suns,Minnesota Timberwolves,8:00p
+206,"Mon, Nov 15, 2021",Miami Heat,Oklahoma City Thunder,8:00p
+207,"Mon, Nov 15, 2021",Toronto Raptors,Portland Trail Blazers,10:00p
+208,"Mon, Nov 15, 2021",Chicago Bulls,Los Angeles Lakers,10:30p
+209,"Tue, Nov 16, 2021",Golden State Warriors,Brooklyn Nets,7:30p
+210,"Tue, Nov 16, 2021",Philadelphia 76ers,Utah Jazz,10:00p
+211,"Tue, Nov 16, 2021",San Antonio Spurs,Los Angeles Clippers,10:30p
+212,"Wed, Nov 17, 2021",Washington Wizards,Charlotte Hornets,7:00p
+213,"Wed, Nov 17, 2021",Indiana Pacers,Detroit Pistons,7:00p
+214,"Wed, Nov 17, 2021",Boston Celtics,Atlanta Hawks,7:30p
+215,"Wed, Nov 17, 2021",Cleveland Cavaliers,Brooklyn Nets,7:30p
+216,"Wed, Nov 17, 2021",New Orleans Pelicans,Miami Heat,7:30p
+217,"Wed, Nov 17, 2021",Los Angeles Lakers,Milwaukee Bucks,7:30p
+218,"Wed, Nov 17, 2021",Orlando Magic,New York Knicks,7:30p
+219,"Wed, Nov 17, 2021",Sacramento Kings,Minnesota Timberwolves,8:00p
+220,"Wed, Nov 17, 2021",Houston Rockets,Oklahoma City Thunder,8:00p
+221,"Wed, Nov 17, 2021",Dallas Mavericks,Phoenix Suns,10:00p
+222,"Wed, Nov 17, 2021",Chicago Bulls,Portland Trail Blazers,10:00p
+223,"Thu, Nov 18, 2021",Golden State Warriors,Cleveland Cavaliers,7:30p
+224,"Thu, Nov 18, 2021",Washington Wizards,Miami Heat,7:30p
+225,"Thu, Nov 18, 2021",Los Angeles Clippers,Memphis Grizzlies,8:00p
+226,"Thu, Nov 18, 2021",San Antonio Spurs,Minnesota Timberwolves,8:00p
+227,"Thu, Nov 18, 2021",Philadelphia 76ers,Denver Nuggets,9:00p
+228,"Thu, Nov 18, 2021",Toronto Raptors,Utah Jazz,9:00p
+229,"Fri, Nov 19, 2021",Indiana Pacers,Charlotte Hornets,7:00p
+230,"Fri, Nov 19, 2021",Golden State Warriors,Detroit Pistons,7:00p
+231,"Fri, Nov 19, 2021",Los Angeles Lakers,Boston Celtics,7:30p
+232,"Fri, Nov 19, 2021",Orlando Magic,Brooklyn Nets,7:30p
+233,"Fri, Nov 19, 2021",Oklahoma City Thunder,Milwaukee Bucks,8:00p
+234,"Fri, Nov 19, 2021",Los Angeles Clippers,New Orleans Pelicans,8:00p
+235,"Fri, Nov 19, 2021",Chicago Bulls,Denver Nuggets,9:00p
+236,"Fri, Nov 19, 2021",Dallas Mavericks,Phoenix Suns,10:00p
+237,"Fri, Nov 19, 2021",Toronto Raptors,Sacramento Kings,10:00p
+238,"Sat, Nov 20, 2021",Houston Rockets,New York Knicks,5:00p
+239,"Sat, Nov 20, 2021",New Orleans Pelicans,Indiana Pacers,7:00p
+240,"Sat, Nov 20, 2021",Miami Heat,Washington Wizards,7:00p
+241,"Sat, Nov 20, 2021",Charlotte Hornets,Atlanta Hawks,7:30p
+242,"Sat, Nov 20, 2021",Oklahoma City Thunder,Boston Celtics,7:30p
+243,"Sat, Nov 20, 2021",Orlando Magic,Milwaukee Bucks,8:00p
+244,"Sat, Nov 20, 2021",Memphis Grizzlies,Minnesota Timberwolves,8:00p
+245,"Sat, Nov 20, 2021",Philadelphia 76ers,Portland Trail Blazers,10:00p
+246,"Sat, Nov 20, 2021",Utah Jazz,Sacramento Kings,10:00p
+247,"Sun, Nov 21, 2021",Dallas Mavericks,Los Angeles Clippers,3:30p
+248,"Sun, Nov 21, 2021",Los Angeles Lakers,Detroit Pistons,6:00p
+249,"Sun, Nov 21, 2021",New York Knicks,Chicago Bulls,8:00p
+250,"Sun, Nov 21, 2021",Denver Nuggets,Phoenix Suns,8:00p
+251,"Sun, Nov 21, 2021",Toronto Raptors,Golden State Warriors,8:30p
+252,"Mon, Nov 22, 2021",Brooklyn Nets,Cleveland Cavaliers,7:00p
+253,"Mon, Nov 22, 2021",Charlotte Hornets,Washington Wizards,7:00p
+254,"Mon, Nov 22, 2021",Oklahoma City Thunder,Atlanta Hawks,7:30p
+255,"Mon, Nov 22, 2021",Houston Rockets,Boston Celtics,7:30p
+256,"Mon, Nov 22, 2021",Indiana Pacers,Chicago Bulls,8:00p
+257,"Mon, Nov 22, 2021",Orlando Magic,Milwaukee Bucks,8:00p
+258,"Mon, Nov 22, 2021",Minnesota Timberwolves,New Orleans Pelicans,8:00p
+259,"Mon, Nov 22, 2021",Phoenix Suns,San Antonio Spurs,8:30p
+260,"Mon, Nov 22, 2021",Memphis Grizzlies,Utah Jazz,9:00p
+261,"Mon, Nov 22, 2021",Philadelphia 76ers,Sacramento Kings,10:00p
+262,"Tue, Nov 23, 2021",Miami Heat,Detroit Pistons,7:00p
+263,"Tue, Nov 23, 2021",Los Angeles Lakers,New York Knicks,7:30p
+264,"Tue, Nov 23, 2021",Denver Nuggets,Portland Trail Blazers,10:00p
+265,"Tue, Nov 23, 2021",Dallas Mavericks,Los Angeles Clippers,10:30p
+266,"Wed, Nov 24, 2021",Phoenix Suns,Cleveland Cavaliers,7:00p
+267,"Wed, Nov 24, 2021",Los Angeles Lakers,Indiana Pacers,7:00p
+268,"Wed, Nov 24, 2021",Charlotte Hornets,Orlando Magic,7:00p
+269,"Wed, Nov 24, 2021",Brooklyn Nets,Boston Celtics,7:30p
+270,"Wed, Nov 24, 2021",Chicago Bulls,Houston Rockets,8:00p
+271,"Wed, Nov 24, 2021",Toronto Raptors,Memphis Grizzlies,8:00p
+272,"Wed, Nov 24, 2021",Detroit Pistons,Milwaukee Bucks,8:00p
+273,"Wed, Nov 24, 2021",Miami Heat,Minnesota Timberwolves,8:00p
+274,"Wed, Nov 24, 2021",Washington Wizards,New Orleans Pelicans,8:00p
+275,"Wed, Nov 24, 2021",Utah Jazz,Oklahoma City Thunder,8:00p
+276,"Wed, Nov 24, 2021",Atlanta Hawks,San Antonio Spurs,8:30p
+277,"Wed, Nov 24, 2021",Philadelphia 76ers,Golden State Warriors,10:00p
+278,"Wed, Nov 24, 2021",Portland Trail Blazers,Sacramento Kings,10:00p
+279,"Fri, Nov 26, 2021",Detroit Pistons,Los Angeles Clippers,3:30p
+280,"Fri, Nov 26, 2021",Minnesota Timberwolves,Charlotte Hornets,7:00p
+281,"Fri, Nov 26, 2021",Phoenix Suns,New York Knicks,7:00p
+282,"Fri, Nov 26, 2021",Chicago Bulls,Orlando Magic,7:00p
+283,"Fri, Nov 26, 2021",Toronto Raptors,Indiana Pacers,8:00p
+284,"Fri, Nov 26, 2021",Atlanta Hawks,Memphis Grizzlies,8:00p
+285,"Fri, Nov 26, 2021",Washington Wizards,Oklahoma City Thunder,8:00p
+286,"Fri, Nov 26, 2021",Boston Celtics,San Antonio Spurs,8:30p
+287,"Fri, Nov 26, 2021",Milwaukee Bucks,Denver Nuggets,9:00p
+288,"Fri, Nov 26, 2021",New Orleans Pelicans,Utah Jazz,9:00p
+289,"Fri, Nov 26, 2021",Portland Trail Blazers,Golden State Warriors,10:00p
+290,"Fri, Nov 26, 2021",Sacramento Kings,Los Angeles Lakers,10:30p
+291,"Sat, Nov 27, 2021",Minnesota Timberwolves,Philadelphia 76ers,6:00p
+292,"Sat, Nov 27, 2021",New York Knicks,Atlanta Hawks,7:30p
+293,"Sat, Nov 27, 2021",Phoenix Suns,Brooklyn Nets,7:30p
+294,"Sat, Nov 27, 2021",Miami Heat,Chicago Bulls,8:00p
+295,"Sat, Nov 27, 2021",Orlando Magic,Cleveland Cavaliers,8:00p
+296,"Sat, Nov 27, 2021",Charlotte Hornets,Houston Rockets,8:00p
+297,"Sat, Nov 27, 2021",Washington Wizards,Dallas Mavericks,8:30p
+298,"Sat, Nov 27, 2021",New Orleans Pelicans,Utah Jazz,9:00p
+299,"Sun, Nov 28, 2021",Golden State Warriors,Los Angeles Clippers,3:30p
+300,"Sun, Nov 28, 2021",Milwaukee Bucks,Indiana Pacers,5:00p
+301,"Sun, Nov 28, 2021",Sacramento Kings,Memphis Grizzlies,6:00p
+302,"Sun, Nov 28, 2021",Boston Celtics,Toronto Raptors,6:00p
+303,"Sun, Nov 28, 2021",Detroit Pistons,Los Angeles Lakers,9:30p
+304,"Mon, Nov 29, 2021",Orlando Magic,Philadelphia 76ers,7:00p
+305,"Mon, Nov 29, 2021",Denver Nuggets,Miami Heat,7:30p
+306,"Mon, Nov 29, 2021",Charlotte Hornets,Chicago Bulls,8:00p
+307,"Mon, Nov 29, 2021",Oklahoma City Thunder,Houston Rockets,8:00p
+308,"Mon, Nov 29, 2021",Indiana Pacers,Minnesota Timberwolves,8:00p
+309,"Mon, Nov 29, 2021",Cleveland Cavaliers,Dallas Mavericks,8:30p
+310,"Mon, Nov 29, 2021",Washington Wizards,San Antonio Spurs,8:30p
+311,"Mon, Nov 29, 2021",Portland Trail Blazers,Utah Jazz,9:00p
+312,"Mon, Nov 29, 2021",New Orleans Pelicans,Los Angeles Clippers,10:30p
+313,"Tue, Nov 30, 2021",New York Knicks,Brooklyn Nets,7:30p
+314,"Tue, Nov 30, 2021",Memphis Grizzlies,Toronto Raptors,7:30p
+315,"Tue, Nov 30, 2021",Golden State Warriors,Phoenix Suns,10:00p
+316,"Tue, Nov 30, 2021",Detroit Pistons,Portland Trail Blazers,10:00p
+317,"Tue, Nov 30, 2021",Los Angeles Lakers,Sacramento Kings,10:00p
+318,"Wed, Dec 1, 2021",Atlanta Hawks,Indiana Pacers,7:00p
+319,"Wed, Dec 1, 2021",Denver Nuggets,Orlando Magic,7:00p
+320,"Wed, Dec 1, 2021",Minnesota Timberwolves,Washington Wizards,7:00p
+321,"Wed, Dec 1, 2021",Philadelphia 76ers,Boston Celtics,7:30p
+322,"Wed, Dec 1, 2021",Cleveland Cavaliers,Miami Heat,7:30p
+323,"Wed, Dec 1, 2021",Charlotte Hornets,Milwaukee Bucks,8:00p
+324,"Wed, Dec 1, 2021",Dallas Mavericks,New Orleans Pelicans,8:00p
+325,"Wed, Dec 1, 2021",Houston Rockets,Oklahoma City Thunder,8:00p
+326,"Wed, Dec 1, 2021",Sacramento Kings,Los Angeles Clippers,10:30p
+327,"Thu, Dec 2, 2021",Chicago Bulls,New York Knicks,7:30p
+328,"Thu, Dec 2, 2021",Milwaukee Bucks,Toronto Raptors,7:30p
+329,"Thu, Dec 2, 2021",Oklahoma City Thunder,Memphis Grizzlies,8:00p
+330,"Thu, Dec 2, 2021",Detroit Pistons,Phoenix Suns,9:00p
+331,"Thu, Dec 2, 2021",San Antonio Spurs,Portland Trail Blazers,10:00p
+332,"Fri, Dec 3, 2021",Miami Heat,Indiana Pacers,7:00p
+333,"Fri, Dec 3, 2021",Cleveland Cavaliers,Washington Wizards,7:00p
+334,"Fri, Dec 3, 2021",Philadelphia 76ers,Atlanta Hawks,7:30p
+335,"Fri, Dec 3, 2021",Minnesota Timberwolves,Brooklyn Nets,7:30p
+336,"Fri, Dec 3, 2021",Orlando Magic,Houston Rockets,8:00p
+337,"Fri, Dec 3, 2021",New Orleans Pelicans,Dallas Mavericks,8:30p
+338,"Fri, Dec 3, 2021",Boston Celtics,Utah Jazz,9:00p
+339,"Fri, Dec 3, 2021",Phoenix Suns,Golden State Warriors,10:00p
+340,"Fri, Dec 3, 2021",Los Angeles Clippers,Los Angeles Lakers,10:00p
+341,"Sat, Dec 4, 2021",Denver Nuggets,New York Knicks,1:00p
+342,"Sat, Dec 4, 2021",Chicago Bulls,Brooklyn Nets,7:30p
+343,"Sat, Dec 4, 2021",Miami Heat,Milwaukee Bucks,8:00p
+344,"Sat, Dec 4, 2021",Memphis Grizzlies,Dallas Mavericks,8:30p
+345,"Sat, Dec 4, 2021",San Antonio Spurs,Golden State Warriors,8:30p
+346,"Sat, Dec 4, 2021",Boston Celtics,Portland Trail Blazers,10:00p
+347,"Sat, Dec 4, 2021",Los Angeles Clippers,Sacramento Kings,10:00p
+348,"Sun, Dec 5, 2021",Utah Jazz,Cleveland Cavaliers,3:30p
+349,"Sun, Dec 5, 2021",Charlotte Hornets,Atlanta Hawks,6:00p
+350,"Sun, Dec 5, 2021",Washington Wizards,Toronto Raptors,6:00p
+351,"Sun, Dec 5, 2021",New Orleans Pelicans,Houston Rockets,7:00p
+352,"Mon, Dec 6, 2021",Philadelphia 76ers,Charlotte Hornets,7:00p
+353,"Mon, Dec 6, 2021",Oklahoma City Thunder,Detroit Pistons,7:00p
+354,"Mon, Dec 6, 2021",Washington Wizards,Indiana Pacers,7:00p
+355,"Mon, Dec 6, 2021",Memphis Grizzlies,Miami Heat,7:30p
+356,"Mon, Dec 6, 2021",Denver Nuggets,Chicago Bulls,8:00p
+357,"Mon, Dec 6, 2021",Cleveland Cavaliers,Milwaukee Bucks,8:00p
+358,"Mon, Dec 6, 2021",Atlanta Hawks,Minnesota Timberwolves,8:00p
+359,"Mon, Dec 6, 2021",San Antonio Spurs,Phoenix Suns,9:00p
+360,"Mon, Dec 6, 2021",Orlando Magic,Golden State Warriors,10:00p
+361,"Mon, Dec 6, 2021",Los Angeles Clippers,Portland Trail Blazers,10:00p
+362,"Tue, Dec 7, 2021",Brooklyn Nets,Dallas Mavericks,7:30p
+363,"Tue, Dec 7, 2021",New York Knicks,San Antonio Spurs,8:30p
+364,"Tue, Dec 7, 2021",Boston Celtics,Los Angeles Lakers,10:00p
+365,"Wed, Dec 8, 2021",Philadelphia 76ers,Charlotte Hornets,7:00p
+366,"Wed, Dec 8, 2021",Chicago Bulls,Cleveland Cavaliers,7:00p
+367,"Wed, Dec 8, 2021",Washington Wizards,Detroit Pistons,7:00p
+368,"Wed, Dec 8, 2021",New York Knicks,Indiana Pacers,7:00p
+369,"Wed, Dec 8, 2021",Milwaukee Bucks,Miami Heat,7:30p
+370,"Wed, Dec 8, 2021",Oklahoma City Thunder,Toronto Raptors,7:30p
+371,"Wed, Dec 8, 2021",Brooklyn Nets,Houston Rockets,8:00p
+372,"Wed, Dec 8, 2021",Dallas Mavericks,Memphis Grizzlies,8:00p
+373,"Wed, Dec 8, 2021",Utah Jazz,Minnesota Timberwolves,8:00p
+374,"Wed, Dec 8, 2021",Denver Nuggets,New Orleans Pelicans,8:00p
+375,"Wed, Dec 8, 2021",Portland Trail Blazers,Golden State Warriors,10:00p
+376,"Wed, Dec 8, 2021",Orlando Magic,Sacramento Kings,10:00p
+377,"Wed, Dec 8, 2021",Boston Celtics,Los Angeles Clippers,10:30p
+378,"Thu, Dec 9, 2021",Utah Jazz,Philadelphia 76ers,7:00p
+379,"Thu, Dec 9, 2021",Los Angeles Lakers,Memphis Grizzlies,8:00p
+380,"Thu, Dec 9, 2021",Denver Nuggets,San Antonio Spurs,8:30p
+381,"Fri, Dec 10, 2021",Sacramento Kings,Charlotte Hornets,7:00p
+382,"Fri, Dec 10, 2021",Dallas Mavericks,Indiana Pacers,7:00p
+383,"Fri, Dec 10, 2021",Brooklyn Nets,Atlanta Hawks,7:30p
+384,"Fri, Dec 10, 2021",New York Knicks,Toronto Raptors,7:30p
+385,"Fri, Dec 10, 2021",Milwaukee Bucks,Houston Rockets,8:00p
+386,"Fri, Dec 10, 2021",Cleveland Cavaliers,Minnesota Timberwolves,8:00p
+387,"Fri, Dec 10, 2021",Detroit Pistons,New Orleans Pelicans,8:00p
+388,"Fri, Dec 10, 2021",Los Angeles Lakers,Oklahoma City Thunder,8:00p
+389,"Fri, Dec 10, 2021",Boston Celtics,Phoenix Suns,10:00p
+390,"Sat, Dec 11, 2021",Orlando Magic,Los Angeles Clippers,3:30p
+391,"Sat, Dec 11, 2021",Utah Jazz,Washington Wizards,7:00p
+392,"Sat, Dec 11, 2021",Sacramento Kings,Cleveland Cavaliers,8:00p
+393,"Sat, Dec 11, 2021",Houston Rockets,Memphis Grizzlies,8:00p
+394,"Sat, Dec 11, 2021",Chicago Bulls,Miami Heat,8:00p
+395,"Sat, Dec 11, 2021",Golden State Warriors,Philadelphia 76ers,8:30p
+396,"Sat, Dec 11, 2021",Denver Nuggets,San Antonio Spurs,8:30p
+397,"Sun, Dec 12, 2021",Milwaukee Bucks,New York Knicks,12:00p
+398,"Sun, Dec 12, 2021",Brooklyn Nets,Detroit Pistons,6:00p
+399,"Sun, Dec 12, 2021",Dallas Mavericks,Oklahoma City Thunder,7:00p
+400,"Sun, Dec 12, 2021",New Orleans Pelicans,San Antonio Spurs,7:00p
+401,"Sun, Dec 12, 2021",Minnesota Timberwolves,Portland Trail Blazers,9:00p
+402,"Sun, Dec 12, 2021",Orlando Magic,Los Angeles Lakers,9:30p
+403,"Mon, Dec 13, 2021",Miami Heat,Cleveland Cavaliers,7:00p
+404,"Mon, Dec 13, 2021",Golden State Warriors,Indiana Pacers,7:00p
+405,"Mon, Dec 13, 2021",Sacramento Kings,Toronto Raptors,7:00p
+406,"Mon, Dec 13, 2021",Houston Rockets,Atlanta Hawks,7:30p
+407,"Mon, Dec 13, 2021",Milwaukee Bucks,Boston Celtics,7:30p
+408,"Mon, Dec 13, 2021",Philadelphia 76ers,Memphis Grizzlies,8:00p
+409,"Mon, Dec 13, 2021",Charlotte Hornets,Dallas Mavericks,8:30p
+410,"Mon, Dec 13, 2021",Washington Wizards,Denver Nuggets,9:00p
+411,"Mon, Dec 13, 2021",Phoenix Suns,Los Angeles Clippers,10:30p
+412,"Tue, Dec 14, 2021",Toronto Raptors,Brooklyn Nets,7:30p
+413,"Tue, Dec 14, 2021",Golden State Warriors,New York Knicks,7:30p
+414,"Tue, Dec 14, 2021",Detroit Pistons,Chicago Bulls,8:00p
+415,"Tue, Dec 14, 2021",Phoenix Suns,Portland Trail Blazers,10:00p
+416,"Wed, Dec 15, 2021",Houston Rockets,Cleveland Cavaliers,7:00p
+417,"Wed, Dec 15, 2021",Atlanta Hawks,Orlando Magic,7:00p
+418,"Wed, Dec 15, 2021",Miami Heat,Philadelphia 76ers,7:00p
+419,"Wed, Dec 15, 2021",Los Angeles Lakers,Dallas Mavericks,7:30p
+420,"Wed, Dec 15, 2021",Indiana Pacers,Milwaukee Bucks,8:00p
+421,"Wed, Dec 15, 2021",New Orleans Pelicans,Oklahoma City Thunder,8:00p
+422,"Wed, Dec 15, 2021",Charlotte Hornets,San Antonio Spurs,8:30p
+423,"Wed, Dec 15, 2021",Minnesota Timberwolves,Denver Nuggets,9:00p
+424,"Wed, Dec 15, 2021",Memphis Grizzlies,Portland Trail Blazers,10:00p
+425,"Wed, Dec 15, 2021",Washington Wizards,Sacramento Kings,10:00p
+426,"Wed, Dec 15, 2021",Los Angeles Clippers,Utah Jazz,10:00p
+427,"Thu, Dec 16, 2021",Detroit Pistons,Indiana Pacers,7:00p
+428,"Thu, Dec 16, 2021",Philadelphia 76ers,Brooklyn Nets,7:30p
+429,"Thu, Dec 16, 2021",Chicago Bulls,Toronto Raptors,7:30p
+430,"Thu, Dec 16, 2021",New York Knicks,Houston Rockets,8:00p
+431,"Thu, Dec 16, 2021",Washington Wizards,Phoenix Suns,9:00p
+432,"Fri, Dec 17, 2021",Miami Heat,Orlando Magic,7:00p
+433,"Fri, Dec 17, 2021",Denver Nuggets,Atlanta Hawks,7:30p
+434,"Fri, Dec 17, 2021",Golden State Warriors,Boston Celtics,7:30p
+435,"Fri, Dec 17, 2021",Los Angeles Lakers,Minnesota Timberwolves,8:00p
+436,"Fri, Dec 17, 2021",San Antonio Spurs,Utah Jazz,9:00p
+437,"Fri, Dec 17, 2021",Milwaukee Bucks,New Orleans Pelicans,10:00p
+438,"Fri, Dec 17, 2021",Charlotte Hornets,Portland Trail Blazers,10:00p
+439,"Fri, Dec 17, 2021",Memphis Grizzlies,Sacramento Kings,10:00p
+440,"Sat, Dec 18, 2021",Houston Rockets,Detroit Pistons,12:00p
+441,"Sat, Dec 18, 2021",Orlando Magic,Brooklyn Nets,7:30p
+442,"Sat, Dec 18, 2021",Golden State Warriors,Toronto Raptors,7:30p
+443,"Sat, Dec 18, 2021",Los Angeles Clippers,Oklahoma City Thunder,8:00p
+444,"Sat, Dec 18, 2021",New York Knicks,Boston Celtics,8:30p
+445,"Sat, Dec 18, 2021",Cleveland Cavaliers,Milwaukee Bucks,9:00p
+446,"Sat, Dec 18, 2021",Washington Wizards,Utah Jazz,9:00p
+447,"Sun, Dec 19, 2021",Los Angeles Lakers,Chicago Bulls,3:30p
+448,"Sun, Dec 19, 2021",Miami Heat,Detroit Pistons,6:00p
+449,"Sun, Dec 19, 2021",Portland Trail Blazers,Memphis Grizzlies,6:00p
+450,"Sun, Dec 19, 2021",San Antonio Spurs,Sacramento Kings,6:00p
+451,"Sun, Dec 19, 2021",Cleveland Cavaliers,Atlanta Hawks,7:30p
+452,"Sun, Dec 19, 2021",Denver Nuggets,Brooklyn Nets,7:30p
+453,"Sun, Dec 19, 2021",Dallas Mavericks,Minnesota Timberwolves,8:00p
+454,"Sun, Dec 19, 2021",New Orleans Pelicans,Philadelphia 76ers,8:00p
+455,"Sun, Dec 19, 2021",Charlotte Hornets,Phoenix Suns,8:00p
+456,"Mon, Dec 20, 2021",Philadelphia 76ers,Boston Celtics,7:30p
+457,"Mon, Dec 20, 2021",Orlando Magic,Toronto Raptors,7:30p
+458,"Mon, Dec 20, 2021",Houston Rockets,Chicago Bulls,8:00p
+459,"Mon, Dec 20, 2021",Oklahoma City Thunder,Memphis Grizzlies,8:00p
+460,"Mon, Dec 20, 2021",Charlotte Hornets,Utah Jazz,9:00p
+461,"Mon, Dec 20, 2021",Sacramento Kings,Golden State Warriors,10:00p
+462,"Mon, Dec 20, 2021",San Antonio Spurs,Los Angeles Clippers,10:30p
+463,"Tue, Dec 21, 2021",Washington Wizards,Brooklyn Nets,7:30p
+464,"Tue, Dec 21, 2021",Indiana Pacers,Miami Heat,7:30p
+465,"Tue, Dec 21, 2021",Detroit Pistons,New York Knicks,7:30p
+466,"Tue, Dec 21, 2021",Portland Trail Blazers,New Orleans Pelicans,8:00p
+467,"Tue, Dec 21, 2021",Minnesota Timberwolves,Dallas Mavericks,8:30p
+468,"Tue, Dec 21, 2021",Phoenix Suns,Los Angeles Lakers,10:00p
+469,"Wed, Dec 22, 2021",Orlando Magic,Atlanta Hawks,7:30p
+470,"Wed, Dec 22, 2021",Cleveland Cavaliers,Boston Celtics,7:30p
+471,"Wed, Dec 22, 2021",Toronto Raptors,Chicago Bulls,8:00p
+472,"Wed, Dec 22, 2021",Houston Rockets,Milwaukee Bucks,8:00p
+473,"Wed, Dec 22, 2021",Denver Nuggets,Oklahoma City Thunder,8:00p
+474,"Wed, Dec 22, 2021",Los Angeles Clippers,Sacramento Kings,10:00p
+475,"Thu, Dec 23, 2021",Houston Rockets,Indiana Pacers,7:00p
+476,"Thu, Dec 23, 2021",New Orleans Pelicans,Orlando Magic,7:00p
+477,"Thu, Dec 23, 2021",Atlanta Hawks,Philadelphia 76ers,7:00p
+478,"Thu, Dec 23, 2021",Detroit Pistons,Miami Heat,7:30p
+479,"Thu, Dec 23, 2021",Washington Wizards,New York Knicks,7:30p
+480,"Thu, Dec 23, 2021",Milwaukee Bucks,Dallas Mavericks,8:30p
+481,"Thu, Dec 23, 2021",Charlotte Hornets,Denver Nuggets,9:00p
+482,"Thu, Dec 23, 2021",Oklahoma City Thunder,Phoenix Suns,9:00p
+483,"Thu, Dec 23, 2021",Minnesota Timberwolves,Utah Jazz,9:00p
+484,"Thu, Dec 23, 2021",Memphis Grizzlies,Golden State Warriors,10:00p
+485,"Thu, Dec 23, 2021",Brooklyn Nets,Portland Trail Blazers,10:00p
+486,"Thu, Dec 23, 2021",San Antonio Spurs,Los Angeles Lakers,10:30p
+487,"Sat, Dec 25, 2021",Atlanta Hawks,New York Knicks,12:00p
+488,"Sat, Dec 25, 2021",Boston Celtics,Milwaukee Bucks,2:30p
+489,"Sat, Dec 25, 2021",Golden State Warriors,Phoenix Suns,5:00p
+490,"Sat, Dec 25, 2021",Brooklyn Nets,Los Angeles Lakers,8:00p
+491,"Sat, Dec 25, 2021",Dallas Mavericks,Utah Jazz,10:30p
+492,"Sun, Dec 26, 2021",Orlando Magic,Miami Heat,3:30p
+493,"Sun, Dec 26, 2021",Toronto Raptors,Cleveland Cavaliers,6:00p
+494,"Sun, Dec 26, 2021",Memphis Grizzlies,Sacramento Kings,6:00p
+495,"Sun, Dec 26, 2021",Philadelphia 76ers,Washington Wizards,6:00p
+496,"Sun, Dec 26, 2021",New Orleans Pelicans,Oklahoma City Thunder,7:00p
+497,"Sun, Dec 26, 2021",Detroit Pistons,San Antonio Spurs,7:00p
+498,"Sun, Dec 26, 2021",Indiana Pacers,Chicago Bulls,8:00p
+499,"Sun, Dec 26, 2021",Denver Nuggets,Los Angeles Clippers,9:00p
+500,"Mon, Dec 27, 2021",Houston Rockets,Charlotte Hornets,7:00p
+501,"Mon, Dec 27, 2021",Chicago Bulls,Atlanta Hawks,7:30p
+502,"Mon, Dec 27, 2021",Boston Celtics,Minnesota Timberwolves,8:00p
+503,"Mon, Dec 27, 2021",Utah Jazz,San Antonio Spurs,8:30p
+504,"Mon, Dec 27, 2021",Memphis Grizzlies,Phoenix Suns,9:00p
+505,"Mon, Dec 27, 2021",Dallas Mavericks,Portland Trail Blazers,10:00p
+506,"Mon, Dec 27, 2021",Brooklyn Nets,Los Angeles Clippers,10:30p
+507,"Tue, Dec 28, 2021",Milwaukee Bucks,Orlando Magic,7:00p
+508,"Tue, Dec 28, 2021",Washington Wizards,Miami Heat,7:30p
+509,"Tue, Dec 28, 2021",Philadelphia 76ers,Toronto Raptors,7:30p
+510,"Tue, Dec 28, 2021",Los Angeles Lakers,Houston Rockets,8:00p
+511,"Tue, Dec 28, 2021",New York Knicks,Minnesota Timberwolves,8:00p
+512,"Tue, Dec 28, 2021",Cleveland Cavaliers,New Orleans Pelicans,8:00p
+513,"Tue, Dec 28, 2021",Denver Nuggets,Golden State Warriors,10:00p
+514,"Tue, Dec 28, 2021",Oklahoma City Thunder,Sacramento Kings,10:00p
+515,"Wed, Dec 29, 2021",New York Knicks,Detroit Pistons,7:00p
+516,"Wed, Dec 29, 2021",Charlotte Hornets,Indiana Pacers,7:00p
+517,"Wed, Dec 29, 2021",Los Angeles Clippers,Boston Celtics,7:30p
+518,"Wed, Dec 29, 2021",Atlanta Hawks,Chicago Bulls,8:00p
+519,"Wed, Dec 29, 2021",Los Angeles Lakers,Memphis Grizzlies,8:00p
+520,"Wed, Dec 29, 2021",Miami Heat,San Antonio Spurs,8:30p
+521,"Wed, Dec 29, 2021",Oklahoma City Thunder,Phoenix Suns,9:00p
+522,"Wed, Dec 29, 2021",Utah Jazz,Portland Trail Blazers,10:00p
+523,"Wed, Dec 29, 2021",Dallas Mavericks,Sacramento Kings,10:30p
+524,"Thu, Dec 30, 2021",Philadelphia 76ers,Brooklyn Nets,7:00p
+525,"Thu, Dec 30, 2021",Milwaukee Bucks,Orlando Magic,7:00p
+526,"Thu, Dec 30, 2021",Cleveland Cavaliers,Washington Wizards,7:00p
+527,"Thu, Dec 30, 2021",Golden State Warriors,Denver Nuggets,9:30p
+528,"Fri, Dec 31, 2021",Phoenix Suns,Boston Celtics,1:00p
+529,"Fri, Dec 31, 2021",Chicago Bulls,Indiana Pacers,3:00p
+530,"Fri, Dec 31, 2021",Dallas Mavericks,Sacramento Kings,6:00p
+531,"Fri, Dec 31, 2021",Miami Heat,Houston Rockets,7:00p
+532,"Fri, Dec 31, 2021",Atlanta Hawks,Cleveland Cavaliers,7:30p
+533,"Fri, Dec 31, 2021",Los Angeles Clippers,Toronto Raptors,7:30p
+534,"Fri, Dec 31, 2021",San Antonio Spurs,Memphis Grizzlies,8:00p
+535,"Fri, Dec 31, 2021",New York Knicks,Oklahoma City Thunder,8:00p
+536,"Fri, Dec 31, 2021",Minnesota Timberwolves,Utah Jazz,9:00p
+537,"Fri, Dec 31, 2021",Portland Trail Blazers,Los Angeles Lakers,10:30p
+538,"Sat, Jan 1, 2022",New Orleans Pelicans,Milwaukee Bucks,6:30p
+539,"Sat, Jan 1, 2022",San Antonio Spurs,Detroit Pistons,7:00p
+540,"Sat, Jan 1, 2022",Chicago Bulls,Washington Wizards,7:00p
+541,"Sat, Jan 1, 2022",Los Angeles Clippers,Brooklyn Nets,7:30p
+542,"Sat, Jan 1, 2022",Denver Nuggets,Houston Rockets,8:00p
+543,"Sat, Jan 1, 2022",Golden State Warriors,Utah Jazz,9:00p
+544,"Sun, Jan 2, 2022",New York Knicks,Toronto Raptors,3:30p
+545,"Sun, Jan 2, 2022",Orlando Magic,Boston Celtics,6:00p
+546,"Sun, Jan 2, 2022",Indiana Pacers,Cleveland Cavaliers,6:00p
+547,"Sun, Jan 2, 2022",Miami Heat,Sacramento Kings,6:00p
+548,"Sun, Jan 2, 2022",Phoenix Suns,Charlotte Hornets,7:00p
+549,"Sun, Jan 2, 2022",Dallas Mavericks,Oklahoma City Thunder,7:00p
+550,"Sun, Jan 2, 2022",Minnesota Timberwolves,Los Angeles Lakers,9:30p
+551,"Mon, Jan 3, 2022",Houston Rockets,Philadelphia 76ers,7:00p
+552,"Mon, Jan 3, 2022",Charlotte Hornets,Washington Wizards,7:00p
+553,"Mon, Jan 3, 2022",Memphis Grizzlies,Brooklyn Nets,7:30p
+554,"Mon, Jan 3, 2022",Orlando Magic,Chicago Bulls,8:00p
+555,"Mon, Jan 3, 2022",Detroit Pistons,Milwaukee Bucks,8:00p
+556,"Mon, Jan 3, 2022",Utah Jazz,New Orleans Pelicans,8:00p
+557,"Mon, Jan 3, 2022",Denver Nuggets,Dallas Mavericks,8:30p
+558,"Mon, Jan 3, 2022",Miami Heat,Golden State Warriors,10:00p
+559,"Mon, Jan 3, 2022",Atlanta Hawks,Portland Trail Blazers,10:00p
+560,"Mon, Jan 3, 2022",Minnesota Timberwolves,Los Angeles Clippers,10:30p
+561,"Tue, Jan 4, 2022",Memphis Grizzlies,Cleveland Cavaliers,7:00p
+562,"Tue, Jan 4, 2022",San Antonio Spurs,Toronto Raptors,7:00p
+563,"Tue, Jan 4, 2022",Indiana Pacers,New York Knicks,7:30p
+564,"Tue, Jan 4, 2022",Phoenix Suns,New Orleans Pelicans,8:00p
+565,"Tue, Jan 4, 2022",Sacramento Kings,Los Angeles Lakers,10:30p
+566,"Wed, Jan 5, 2022",Detroit Pistons,Charlotte Hornets,7:00p
+567,"Wed, Jan 5, 2022",Philadelphia 76ers,Orlando Magic,7:00p
+568,"Wed, Jan 5, 2022",Houston Rockets,Washington Wizards,7:00p
+569,"Wed, Jan 5, 2022",San Antonio Spurs,Boston Celtics,7:30p
+570,"Wed, Jan 5, 2022",Golden State Warriors,Dallas Mavericks,7:30p
+571,"Wed, Jan 5, 2022",Brooklyn Nets,Indiana Pacers,7:30p
+572,"Wed, Jan 5, 2022",Toronto Raptors,Milwaukee Bucks,8:00p
+573,"Wed, Jan 5, 2022",Oklahoma City Thunder,Minnesota Timberwolves,8:00p
+574,"Wed, Jan 5, 2022",Utah Jazz,Denver Nuggets,10:00p
+575,"Wed, Jan 5, 2022",Miami Heat,Portland Trail Blazers,10:00p
+576,"Wed, Jan 5, 2022",Atlanta Hawks,Sacramento Kings,10:00p
+577,"Thu, Jan 6, 2022",Boston Celtics,New York Knicks,7:30p
+578,"Thu, Jan 6, 2022",Detroit Pistons,Memphis Grizzlies,8:00p
+579,"Thu, Jan 6, 2022",Golden State Warriors,New Orleans Pelicans,8:00p
+580,"Thu, Jan 6, 2022",Los Angeles Clippers,Phoenix Suns,10:00p
+581,"Fri, Jan 7, 2022",San Antonio Spurs,Philadelphia 76ers,7:00p
+582,"Fri, Jan 7, 2022",Milwaukee Bucks,Brooklyn Nets,7:30p
+583,"Fri, Jan 7, 2022",Utah Jazz,Toronto Raptors,7:30p
+584,"Fri, Jan 7, 2022",Washington Wizards,Chicago Bulls,8:00p
+585,"Fri, Jan 7, 2022",Dallas Mavericks,Houston Rockets,8:00p
+586,"Fri, Jan 7, 2022",Minnesota Timberwolves,Oklahoma City Thunder,8:00p
+587,"Fri, Jan 7, 2022",Sacramento Kings,Denver Nuggets,9:00p
+588,"Fri, Jan 7, 2022",Atlanta Hawks,Los Angeles Lakers,10:00p
+589,"Fri, Jan 7, 2022",Cleveland Cavaliers,Portland Trail Blazers,10:00p
+590,"Sat, Jan 8, 2022",Memphis Grizzlies,Los Angeles Clippers,3:30p
+591,"Sat, Jan 8, 2022",Milwaukee Bucks,Charlotte Hornets,7:00p
+592,"Sat, Jan 8, 2022",Orlando Magic,Detroit Pistons,7:00p
+593,"Sat, Jan 8, 2022",Utah Jazz,Indiana Pacers,7:00p
+594,"Sat, Jan 8, 2022",New York Knicks,Boston Celtics,7:30p
+595,"Sat, Jan 8, 2022",Miami Heat,Phoenix Suns,9:00p
+596,"Sun, Jan 9, 2022",Atlanta Hawks,Los Angeles Clippers,3:30p
+597,"Sun, Jan 9, 2022",Washington Wizards,Orlando Magic,6:00p
+598,"Sun, Jan 9, 2022",New Orleans Pelicans,Toronto Raptors,6:00p
+599,"Sun, Jan 9, 2022",Minnesota Timberwolves,Houston Rockets,7:00p
+600,"Sun, Jan 9, 2022",Denver Nuggets,Oklahoma City Thunder,7:00p
+601,"Sun, Jan 9, 2022",San Antonio Spurs,Brooklyn Nets,7:30p
+602,"Sun, Jan 9, 2022",Chicago Bulls,Dallas Mavericks,7:30p
+603,"Sun, Jan 9, 2022",Cleveland Cavaliers,Golden State Warriors,8:30p
+604,"Sun, Jan 9, 2022",Sacramento Kings,Portland Trail Blazers,9:00p
+605,"Sun, Jan 9, 2022",Memphis Grizzlies,Los Angeles Lakers,9:30p
+606,"Mon, Jan 10, 2022",Milwaukee Bucks,Charlotte Hornets,7:00p
+607,"Mon, Jan 10, 2022",Utah Jazz,Detroit Pistons,7:00p
+608,"Mon, Jan 10, 2022",Indiana Pacers,Boston Celtics,7:30p
+609,"Mon, Jan 10, 2022",San Antonio Spurs,New York Knicks,7:30p
+610,"Mon, Jan 10, 2022",Cleveland Cavaliers,Sacramento Kings,10:00p
+611,"Tue, Jan 11, 2022",Oklahoma City Thunder,Washington Wizards,7:00p
+612,"Tue, Jan 11, 2022",Phoenix Suns,Toronto Raptors,7:30p
+613,"Tue, Jan 11, 2022",Golden State Warriors,Memphis Grizzlies,8:00p
+614,"Tue, Jan 11, 2022",Minnesota Timberwolves,New Orleans Pelicans,8:00p
+615,"Tue, Jan 11, 2022",Denver Nuggets,Los Angeles Clippers,10:30p
+616,"Wed, Jan 12, 2022",Phoenix Suns,Detroit Pistons,7:00p
+617,"Wed, Jan 12, 2022",Boston Celtics,Indiana Pacers,7:00p
+618,"Wed, Jan 12, 2022",Charlotte Hornets,Philadelphia 76ers,7:00p
+619,"Wed, Jan 12, 2022",Orlando Magic,Washington Wizards,7:00p
+620,"Wed, Jan 12, 2022",Miami Heat,Atlanta Hawks,7:30p
+621,"Wed, Jan 12, 2022",Dallas Mavericks,New York Knicks,7:30p
+622,"Wed, Jan 12, 2022",Houston Rockets,San Antonio Spurs,8:30p
+623,"Wed, Jan 12, 2022",Cleveland Cavaliers,Utah Jazz,9:00p
+624,"Wed, Jan 12, 2022",Brooklyn Nets,Chicago Bulls,10:00p
+625,"Wed, Jan 12, 2022",Los Angeles Lakers,Sacramento Kings,10:00p
+626,"Thu, Jan 13, 2022",Golden State Warriors,Milwaukee Bucks,7:30p
+627,"Thu, Jan 13, 2022",Minnesota Timberwolves,Memphis Grizzlies,8:00p
+628,"Thu, Jan 13, 2022",Los Angeles Clippers,New Orleans Pelicans,8:00p
+629,"Thu, Jan 13, 2022",Oklahoma City Thunder,Brooklyn Nets,8:30p
+630,"Thu, Jan 13, 2022",Portland Trail Blazers,Denver Nuggets,10:00p
+631,"Fri, Jan 14, 2022",Orlando Magic,Charlotte Hornets,7:00p
+632,"Fri, Jan 14, 2022",Toronto Raptors,Detroit Pistons,7:00p
+633,"Fri, Jan 14, 2022",Phoenix Suns,Indiana Pacers,7:00p
+634,"Fri, Jan 14, 2022",Boston Celtics,Philadelphia 76ers,7:30p
+635,"Fri, Jan 14, 2022",Golden State Warriors,Chicago Bulls,8:00p
+636,"Fri, Jan 14, 2022",Atlanta Hawks,Miami Heat,8:00p
+637,"Fri, Jan 14, 2022",Cleveland Cavaliers,San Antonio Spurs,8:30p
+638,"Fri, Jan 14, 2022",Dallas Mavericks,Memphis Grizzlies,10:00p
+639,"Fri, Jan 14, 2022",Houston Rockets,Sacramento Kings,10:00p
+640,"Sat, Jan 15, 2022",Toronto Raptors,Milwaukee Bucks,6:30p
+641,"Sat, Jan 15, 2022",Portland Trail Blazers,Washington Wizards,7:00p
+642,"Sat, Jan 15, 2022",New York Knicks,Atlanta Hawks,7:30p
+643,"Sat, Jan 15, 2022",New Orleans Pelicans,Brooklyn Nets,7:30p
+644,"Sat, Jan 15, 2022",Philadelphia 76ers,Miami Heat,8:00p
+645,"Sat, Jan 15, 2022",Cleveland Cavaliers,Oklahoma City Thunder,8:00p
+646,"Sat, Jan 15, 2022",Chicago Bulls,Boston Celtics,8:30p
+647,"Sat, Jan 15, 2022",Los Angeles Clippers,San Antonio Spurs,8:30p
+648,"Sat, Jan 15, 2022",Los Angeles Lakers,Denver Nuggets,9:00p
+649,"Sat, Jan 15, 2022",Orlando Magic,Dallas Mavericks,9:30p
+650,"Sun, Jan 16, 2022",Houston Rockets,Sacramento Kings,6:00p
+651,"Sun, Jan 16, 2022",Utah Jazz,Denver Nuggets,8:00p
+652,"Sun, Jan 16, 2022",Golden State Warriors,Minnesota Timberwolves,8:00p
+653,"Mon, Jan 17, 2022",New Orleans Pelicans,Boston Celtics,12:30p
+654,"Mon, Jan 17, 2022",Charlotte Hornets,New York Knicks,1:00p
+655,"Mon, Jan 17, 2022",Philadelphia 76ers,Washington Wizards,2:00p
+656,"Mon, Jan 17, 2022",Brooklyn Nets,Cleveland Cavaliers,3:00p
+657,"Mon, Jan 17, 2022",Indiana Pacers,Los Angeles Clippers,3:30p
+658,"Mon, Jan 17, 2022",Chicago Bulls,Memphis Grizzlies,3:30p
+659,"Mon, Jan 17, 2022",Milwaukee Bucks,Atlanta Hawks,6:00p
+660,"Mon, Jan 17, 2022",Portland Trail Blazers,Orlando Magic,7:00p
+661,"Mon, Jan 17, 2022",Toronto Raptors,Miami Heat,7:30p
+662,"Mon, Jan 17, 2022",Oklahoma City Thunder,Dallas Mavericks,8:30p
+663,"Mon, Jan 17, 2022",Phoenix Suns,San Antonio Spurs,8:30p
+664,"Mon, Jan 17, 2022",Utah Jazz,Los Angeles Lakers,10:30p
+665,"Tue, Jan 18, 2022",Minnesota Timberwolves,New York Knicks,7:30p
+666,"Tue, Jan 18, 2022",Detroit Pistons,Golden State Warriors,10:00p
+667,"Wed, Jan 19, 2022",Orlando Magic,Philadelphia 76ers,7:00p
+668,"Wed, Jan 19, 2022",Brooklyn Nets,Washington Wizards,7:00p
+669,"Wed, Jan 19, 2022",Minnesota Timberwolves,Atlanta Hawks,7:30p
+670,"Wed, Jan 19, 2022",Charlotte Hornets,Boston Celtics,7:30p
+671,"Wed, Jan 19, 2022",Portland Trail Blazers,Miami Heat,7:30p
+672,"Wed, Jan 19, 2022",Cleveland Cavaliers,Chicago Bulls,8:00p
+673,"Wed, Jan 19, 2022",Memphis Grizzlies,Milwaukee Bucks,8:00p
+674,"Wed, Jan 19, 2022",Toronto Raptors,Dallas Mavericks,8:30p
+675,"Wed, Jan 19, 2022",Oklahoma City Thunder,San Antonio Spurs,8:30p
+676,"Wed, Jan 19, 2022",Houston Rockets,Utah Jazz,9:00p
+677,"Wed, Jan 19, 2022",Los Angeles Clippers,Denver Nuggets,10:00p
+678,"Wed, Jan 19, 2022",Detroit Pistons,Sacramento Kings,10:00p
+679,"Wed, Jan 19, 2022",Indiana Pacers,Los Angeles Lakers,10:30p
+680,"Thu, Jan 20, 2022",New Orleans Pelicans,New York Knicks,7:30p
+681,"Thu, Jan 20, 2022",Phoenix Suns,Dallas Mavericks,10:00p
+682,"Thu, Jan 20, 2022",Indiana Pacers,Golden State Warriors,10:00p
+683,"Fri, Jan 21, 2022",Oklahoma City Thunder,Charlotte Hornets,7:00p
+684,"Fri, Jan 21, 2022",Los Angeles Lakers,Orlando Magic,7:00p
+685,"Fri, Jan 21, 2022",Los Angeles Clippers,Philadelphia 76ers,7:00p
+686,"Fri, Jan 21, 2022",Miami Heat,Atlanta Hawks,7:30p
+687,"Fri, Jan 21, 2022",Portland Trail Blazers,Boston Celtics,7:30p
+688,"Fri, Jan 21, 2022",Chicago Bulls,Milwaukee Bucks,8:00p
+689,"Fri, Jan 21, 2022",Toronto Raptors,Washington Wizards,8:00p
+690,"Fri, Jan 21, 2022",Brooklyn Nets,San Antonio Spurs,8:30p
+691,"Fri, Jan 21, 2022",Memphis Grizzlies,Denver Nuggets,9:00p
+692,"Fri, Jan 21, 2022",Detroit Pistons,Utah Jazz,9:00p
+693,"Fri, Jan 21, 2022",Houston Rockets,Golden State Warriors,10:00p
+694,"Sat, Jan 22, 2022",Oklahoma City Thunder,Cleveland Cavaliers,8:00p
+695,"Sat, Jan 22, 2022",Sacramento Kings,Milwaukee Bucks,8:00p
+696,"Sat, Jan 22, 2022",Indiana Pacers,Phoenix Suns,9:00p
+697,"Sun, Jan 23, 2022",Los Angeles Clippers,New York Knicks,1:00p
+698,"Sun, Jan 23, 2022",Boston Celtics,Washington Wizards,3:30p
+699,"Sun, Jan 23, 2022",Los Angeles Lakers,Miami Heat,6:00p
+700,"Sun, Jan 23, 2022",Chicago Bulls,Orlando Magic,6:00p
+701,"Sun, Jan 23, 2022",Portland Trail Blazers,Toronto Raptors,6:00p
+702,"Sun, Jan 23, 2022",Atlanta Hawks,Charlotte Hornets,7:00p
+703,"Sun, Jan 23, 2022",Philadelphia 76ers,San Antonio Spurs,7:00p
+704,"Sun, Jan 23, 2022",Memphis Grizzlies,Dallas Mavericks,7:30p
+705,"Sun, Jan 23, 2022",Detroit Pistons,Denver Nuggets,8:00p
+706,"Sun, Jan 23, 2022",Brooklyn Nets,Minnesota Timberwolves,8:00p
+707,"Sun, Jan 23, 2022",Utah Jazz,Golden State Warriors,8:30p
+708,"Mon, Jan 24, 2022",New York Knicks,Cleveland Cavaliers,7:00p
+709,"Mon, Jan 24, 2022",Chicago Bulls,Atlanta Hawks,7:30p
+710,"Mon, Jan 24, 2022",Philadelphia 76ers,Houston Rockets,8:00p
+711,"Mon, Jan 24, 2022",Indiana Pacers,New Orleans Pelicans,8:00p
+712,"Mon, Jan 24, 2022",Utah Jazz,Phoenix Suns,9:00p
+713,"Tue, Jan 25, 2022",Denver Nuggets,Detroit Pistons,7:00p
+714,"Tue, Jan 25, 2022",Charlotte Hornets,Toronto Raptors,7:00p
+715,"Tue, Jan 25, 2022",Los Angeles Clippers,Washington Wizards,7:00p
+716,"Tue, Jan 25, 2022",Sacramento Kings,Boston Celtics,7:30p
+717,"Tue, Jan 25, 2022",Los Angeles Lakers,Brooklyn Nets,7:30p
+718,"Tue, Jan 25, 2022",San Antonio Spurs,Houston Rockets,8:00p
+719,"Tue, Jan 25, 2022",Dallas Mavericks,Golden State Warriors,10:00p
+720,"Tue, Jan 25, 2022",Minnesota Timberwolves,Portland Trail Blazers,10:00p
+721,"Wed, Jan 26, 2022",Milwaukee Bucks,Cleveland Cavaliers,7:00p
+722,"Wed, Jan 26, 2022",Charlotte Hornets,Indiana Pacers,7:00p
+723,"Wed, Jan 26, 2022",Los Angeles Clippers,Orlando Magic,7:00p
+724,"Wed, Jan 26, 2022",Sacramento Kings,Atlanta Hawks,7:30p
+725,"Wed, Jan 26, 2022",Toronto Raptors,Brooklyn Nets,7:30p
+726,"Wed, Jan 26, 2022",New York Knicks,Miami Heat,7:30p
+727,"Wed, Jan 26, 2022",Memphis Grizzlies,San Antonio Spurs,7:30p
+728,"Wed, Jan 26, 2022",Denver Nuggets,New Orleans Pelicans,8:00p
+729,"Wed, Jan 26, 2022",Chicago Bulls,Oklahoma City Thunder,8:00p
+730,"Wed, Jan 26, 2022",Dallas Mavericks,Portland Trail Blazers,10:00p
+731,"Wed, Jan 26, 2022",Phoenix Suns,Utah Jazz,10:00p
+732,"Thu, Jan 27, 2022",Los Angeles Lakers,Philadelphia 76ers,7:30p
+733,"Thu, Jan 27, 2022",Minnesota Timberwolves,Golden State Warriors,10:00p
+734,"Fri, Jan 28, 2022",Los Angeles Lakers,Charlotte Hornets,7:00p
+735,"Fri, Jan 28, 2022",Detroit Pistons,Orlando Magic,7:00p
+736,"Fri, Jan 28, 2022",Boston Celtics,Atlanta Hawks,7:30p
+737,"Fri, Jan 28, 2022",Portland Trail Blazers,Houston Rockets,8:00p
+738,"Fri, Jan 28, 2022",Utah Jazz,Memphis Grizzlies,8:00p
+739,"Fri, Jan 28, 2022",Los Angeles Clippers,Miami Heat,8:00p
+740,"Fri, Jan 28, 2022",Indiana Pacers,Oklahoma City Thunder,8:00p
+741,"Fri, Jan 28, 2022",Chicago Bulls,San Antonio Spurs,8:30p
+742,"Fri, Jan 28, 2022",Minnesota Timberwolves,Phoenix Suns,9:00p
+743,"Fri, Jan 28, 2022",New York Knicks,Milwaukee Bucks,10:00p
+744,"Sat, Jan 29, 2022",Boston Celtics,New Orleans Pelicans,6:00p
+745,"Sat, Jan 29, 2022",Indiana Pacers,Dallas Mavericks,7:00p
+746,"Sat, Jan 29, 2022",Sacramento Kings,Philadelphia 76ers,7:30p
+747,"Sat, Jan 29, 2022",Washington Wizards,Memphis Grizzlies,8:00p
+748,"Sat, Jan 29, 2022",Toronto Raptors,Miami Heat,8:00p
+749,"Sat, Jan 29, 2022",Brooklyn Nets,Golden State Warriors,8:30p
+750,"Sun, Jan 30, 2022",Los Angeles Lakers,Atlanta Hawks,1:00p
+751,"Sun, Jan 30, 2022",Los Angeles Clippers,Charlotte Hornets,1:00p
+752,"Sun, Jan 30, 2022",Portland Trail Blazers,Chicago Bulls,3:30p
+753,"Sun, Jan 30, 2022",Cleveland Cavaliers,Detroit Pistons,6:00p
+754,"Sun, Jan 30, 2022",Denver Nuggets,Milwaukee Bucks,7:00p
+755,"Sun, Jan 30, 2022",Dallas Mavericks,Orlando Magic,7:00p
+756,"Sun, Jan 30, 2022",Utah Jazz,Minnesota Timberwolves,8:00p
+757,"Sun, Jan 30, 2022",San Antonio Spurs,Phoenix Suns,8:00p
+758,"Mon, Jan 31, 2022",New Orleans Pelicans,Cleveland Cavaliers,7:00p
+759,"Mon, Jan 31, 2022",Los Angeles Clippers,Indiana Pacers,7:00p
+760,"Mon, Jan 31, 2022",Memphis Grizzlies,Philadelphia 76ers,7:00p
+761,"Mon, Jan 31, 2022",Miami Heat,Boston Celtics,7:30p
+762,"Mon, Jan 31, 2022",Sacramento Kings,New York Knicks,7:30p
+763,"Mon, Jan 31, 2022",Golden State Warriors,Houston Rockets,8:00p
+764,"Mon, Jan 31, 2022",Portland Trail Blazers,Oklahoma City Thunder,8:00p
+765,"Tue, Feb 1, 2022",New Orleans Pelicans,Detroit Pistons,7:00p
+766,"Tue, Feb 1, 2022",Toronto Raptors,Atlanta Hawks,7:30p
+767,"Tue, Feb 1, 2022",Washington Wizards,Milwaukee Bucks,7:30p
+768,"Tue, Feb 1, 2022",Orlando Magic,Chicago Bulls,8:00p
+769,"Tue, Feb 1, 2022",Denver Nuggets,Minnesota Timberwolves,8:00p
+770,"Tue, Feb 1, 2022",Golden State Warriors,San Antonio Spurs,8:30p
+771,"Tue, Feb 1, 2022",Brooklyn Nets,Phoenix Suns,10:00p
+772,"Wed, Feb 2, 2022",Orlando Magic,Indiana Pacers,7:00p
+773,"Wed, Feb 2, 2022",Washington Wizards,Philadelphia 76ers,7:00p
+774,"Wed, Feb 2, 2022",Charlotte Hornets,Boston Celtics,7:30p
+775,"Wed, Feb 2, 2022",Memphis Grizzlies,New York Knicks,7:30p
+776,"Wed, Feb 2, 2022",Cleveland Cavaliers,Houston Rockets,8:00p
+777,"Wed, Feb 2, 2022",Oklahoma City Thunder,Dallas Mavericks,8:30p
+778,"Wed, Feb 2, 2022",Brooklyn Nets,Sacramento Kings,10:00p
+779,"Wed, Feb 2, 2022",Denver Nuggets,Utah Jazz,10:00p
+780,"Wed, Feb 2, 2022",Portland Trail Blazers,Los Angeles Lakers,10:30p
+781,"Thu, Feb 3, 2022",Minnesota Timberwolves,Detroit Pistons,7:00p
+782,"Thu, Feb 3, 2022",Phoenix Suns,Atlanta Hawks,7:30p
+783,"Thu, Feb 3, 2022",Miami Heat,Toronto Raptors,7:30p
+784,"Thu, Feb 3, 2022",Sacramento Kings,Golden State Warriors,10:00p
+785,"Thu, Feb 3, 2022",Los Angeles Lakers,Los Angeles Clippers,10:00p
+786,"Fri, Feb 4, 2022",Cleveland Cavaliers,Charlotte Hornets,7:00p
+787,"Fri, Feb 4, 2022",Boston Celtics,Detroit Pistons,7:00p
+788,"Fri, Feb 4, 2022",Chicago Bulls,Indiana Pacers,7:00p
+789,"Fri, Feb 4, 2022",Atlanta Hawks,Toronto Raptors,7:30p
+790,"Fri, Feb 4, 2022",Philadelphia 76ers,Dallas Mavericks,8:30p
+791,"Fri, Feb 4, 2022",Houston Rockets,San Antonio Spurs,8:30p
+792,"Fri, Feb 4, 2022",Brooklyn Nets,Utah Jazz,9:00p
+793,"Fri, Feb 4, 2022",New Orleans Pelicans,Denver Nuggets,10:00p
+794,"Fri, Feb 4, 2022",Oklahoma City Thunder,Portland Trail Blazers,10:00p
+795,"Sat, Feb 5, 2022",Memphis Grizzlies,Orlando Magic,5:00p
+796,"Sat, Feb 5, 2022",Miami Heat,Charlotte Hornets,7:00p
+797,"Sat, Feb 5, 2022",Phoenix Suns,Washington Wizards,7:00p
+798,"Sat, Feb 5, 2022",New York Knicks,Los Angeles Lakers,8:30p
+799,"Sat, Feb 5, 2022",Milwaukee Bucks,Portland Trail Blazers,10:00p
+800,"Sat, Feb 5, 2022",Oklahoma City Thunder,Sacramento Kings,10:00p
+801,"Sun, Feb 6, 2022",Philadelphia 76ers,Chicago Bulls,3:30p
+802,"Sun, Feb 6, 2022",Brooklyn Nets,Denver Nuggets,3:30p
+803,"Sun, Feb 6, 2022",Detroit Pistons,Minnesota Timberwolves,3:30p
+804,"Sun, Feb 6, 2022",Indiana Pacers,Cleveland Cavaliers,6:00p
+805,"Sun, Feb 6, 2022",Atlanta Hawks,Dallas Mavericks,6:00p
+806,"Sun, Feb 6, 2022",Boston Celtics,Orlando Magic,6:00p
+807,"Sun, Feb 6, 2022",New Orleans Pelicans,Houston Rockets,7:00p
+808,"Sun, Feb 6, 2022",Milwaukee Bucks,Los Angeles Clippers,9:00p
+809,"Mon, Feb 7, 2022",Toronto Raptors,Charlotte Hornets,7:00p
+810,"Mon, Feb 7, 2022",Miami Heat,Washington Wizards,7:00p
+811,"Mon, Feb 7, 2022",Phoenix Suns,Chicago Bulls,8:00p
+812,"Mon, Feb 7, 2022",Golden State Warriors,Oklahoma City Thunder,8:00p
+813,"Mon, Feb 7, 2022",New York Knicks,Utah Jazz,9:00p
+814,"Tue, Feb 8, 2022",Phoenix Suns,Philadelphia 76ers,7:00p
+815,"Tue, Feb 8, 2022",Indiana Pacers,Atlanta Hawks,7:30p
+816,"Tue, Feb 8, 2022",Boston Celtics,Brooklyn Nets,7:30p
+817,"Tue, Feb 8, 2022",Los Angeles Clippers,Memphis Grizzlies,8:00p
+818,"Tue, Feb 8, 2022",Houston Rockets,New Orleans Pelicans,8:00p
+819,"Tue, Feb 8, 2022",Detroit Pistons,Dallas Mavericks,8:30p
+820,"Tue, Feb 8, 2022",New York Knicks,Denver Nuggets,9:00p
+821,"Tue, Feb 8, 2022",Milwaukee Bucks,Los Angeles Lakers,10:00p
+822,"Tue, Feb 8, 2022",Orlando Magic,Portland Trail Blazers,10:00p
+823,"Tue, Feb 8, 2022",Minnesota Timberwolves,Sacramento Kings,10:00p
+824,"Wed, Feb 9, 2022",San Antonio Spurs,Cleveland Cavaliers,7:00p
+825,"Wed, Feb 9, 2022",Chicago Bulls,Charlotte Hornets,7:30p
+826,"Wed, Feb 9, 2022",Toronto Raptors,Oklahoma City Thunder,8:00p
+827,"Wed, Feb 9, 2022",Los Angeles Lakers,Portland Trail Blazers,10:00p
+828,"Wed, Feb 9, 2022",Minnesota Timberwolves,Sacramento Kings,10:00p
+829,"Wed, Feb 9, 2022",Golden State Warriors,Utah Jazz,10:00p
+830,"Thu, Feb 10, 2022",Memphis Grizzlies,Detroit Pistons,7:00p
+831,"Thu, Feb 10, 2022",Brooklyn Nets,Washington Wizards,7:00p
+832,"Thu, Feb 10, 2022",Miami Heat,New Orleans Pelicans,7:30p
+833,"Thu, Feb 10, 2022",Toronto Raptors,Houston Rockets,8:00p
+834,"Thu, Feb 10, 2022",Los Angeles Clippers,Dallas Mavericks,8:30p
+835,"Thu, Feb 10, 2022",New York Knicks,Golden State Warriors,10:00p
+836,"Thu, Feb 10, 2022",Milwaukee Bucks,Phoenix Suns,10:00p
+837,"Fri, Feb 11, 2022",Charlotte Hornets,Detroit Pistons,7:00p
+838,"Fri, Feb 11, 2022",Cleveland Cavaliers,Indiana Pacers,7:00p
+839,"Fri, Feb 11, 2022",Oklahoma City Thunder,Philadelphia 76ers,7:00p
+840,"Fri, Feb 11, 2022",San Antonio Spurs,Atlanta Hawks,7:30p
+841,"Fri, Feb 11, 2022",Denver Nuggets,Boston Celtics,7:30p
+842,"Fri, Feb 11, 2022",Minnesota Timberwolves,Chicago Bulls,8:00p
+843,"Fri, Feb 11, 2022",Orlando Magic,Utah Jazz,9:00p
+844,"Sat, Feb 12, 2022",New York Knicks,Portland Trail Blazers,5:00p
+845,"Sat, Feb 12, 2022",Memphis Grizzlies,Charlotte Hornets,7:00p
+846,"Sat, Feb 12, 2022",San Antonio Spurs,New Orleans Pelicans,7:00p
+847,"Sat, Feb 12, 2022",Sacramento Kings,Washington Wizards,7:00p
+848,"Sat, Feb 12, 2022",Cleveland Cavaliers,Philadelphia 76ers,7:30p
+849,"Sat, Feb 12, 2022",Denver Nuggets,Toronto Raptors,7:30p
+850,"Sat, Feb 12, 2022",Oklahoma City Thunder,Chicago Bulls,8:00p
+851,"Sat, Feb 12, 2022",Brooklyn Nets,Miami Heat,8:00p
+852,"Sat, Feb 12, 2022",Los Angeles Clippers,Dallas Mavericks,8:30p
+853,"Sat, Feb 12, 2022",Los Angeles Lakers,Golden State Warriors,8:30p
+854,"Sat, Feb 12, 2022",Orlando Magic,Phoenix Suns,9:00p
+855,"Sun, Feb 13, 2022",Atlanta Hawks,Boston Celtics,2:00p
+856,"Sun, Feb 13, 2022",Minnesota Timberwolves,Indiana Pacers,3:00p
+857,"Mon, Feb 14, 2022",Detroit Pistons,Washington Wizards,7:00p
+858,"Mon, Feb 14, 2022",Sacramento Kings,Brooklyn Nets,7:30p
+859,"Mon, Feb 14, 2022",Oklahoma City Thunder,New York Knicks,7:30p
+860,"Mon, Feb 14, 2022",San Antonio Spurs,Chicago Bulls,8:00p
+861,"Mon, Feb 14, 2022",Portland Trail Blazers,Milwaukee Bucks,8:00p
+862,"Mon, Feb 14, 2022",Toronto Raptors,New Orleans Pelicans,8:00p
+863,"Mon, Feb 14, 2022",Orlando Magic,Denver Nuggets,9:00p
+864,"Mon, Feb 14, 2022",Houston Rockets,Utah Jazz,9:00p
+865,"Mon, Feb 14, 2022",Golden State Warriors,Los Angeles Clippers,10:30p
+866,"Tue, Feb 15, 2022",Cleveland Cavaliers,Atlanta Hawks,7:30p
+867,"Tue, Feb 15, 2022",Dallas Mavericks,Miami Heat,7:30p
+868,"Tue, Feb 15, 2022",Boston Celtics,Philadelphia 76ers,7:30p
+869,"Tue, Feb 15, 2022",Indiana Pacers,Milwaukee Bucks,8:00p
+870,"Tue, Feb 15, 2022",Charlotte Hornets,Minnesota Timberwolves,8:00p
+871,"Tue, Feb 15, 2022",Memphis Grizzlies,New Orleans Pelicans,8:00p
+872,"Tue, Feb 15, 2022",Los Angeles Clippers,Phoenix Suns,10:00p
+873,"Wed, Feb 16, 2022",Atlanta Hawks,Orlando Magic,7:00p
+874,"Wed, Feb 16, 2022",Detroit Pistons,Boston Celtics,7:30p
+875,"Wed, Feb 16, 2022",Washington Wizards,Indiana Pacers,7:30p
+876,"Wed, Feb 16, 2022",Brooklyn Nets,New York Knicks,7:30p
+877,"Wed, Feb 16, 2022",Sacramento Kings,Chicago Bulls,8:00p
+878,"Wed, Feb 16, 2022",Portland Trail Blazers,Memphis Grizzlies,8:00p
+879,"Wed, Feb 16, 2022",Toronto Raptors,Minnesota Timberwolves,8:00p
+880,"Wed, Feb 16, 2022",San Antonio Spurs,Oklahoma City Thunder,8:00p
+881,"Wed, Feb 16, 2022",Houston Rockets,Phoenix Suns,9:00p
+882,"Wed, Feb 16, 2022",Denver Nuggets,Golden State Warriors,10:00p
+883,"Wed, Feb 16, 2022",Utah Jazz,Los Angeles Lakers,10:00p
+884,"Thu, Feb 17, 2022",Miami Heat,Charlotte Hornets,7:00p
+885,"Thu, Feb 17, 2022",Dallas Mavericks,New Orleans Pelicans,8:00p
+886,"Thu, Feb 17, 2022",Philadelphia 76ers,Milwaukee Bucks,8:30p
+887,"Thu, Feb 17, 2022",Houston Rockets,Los Angeles Clippers,10:30p
+888,"Thu, Feb 24, 2022",Cleveland Cavaliers,Detroit Pistons,7:00p
+889,"Thu, Feb 24, 2022",Boston Celtics,Brooklyn Nets,7:30p
+890,"Thu, Feb 24, 2022",Atlanta Hawks,Chicago Bulls,8:00p
+891,"Thu, Feb 24, 2022",Memphis Grizzlies,Minnesota Timberwolves,8:00p
+892,"Thu, Feb 24, 2022",Phoenix Suns,Oklahoma City Thunder,8:00p
+893,"Thu, Feb 24, 2022",Golden State Warriors,Portland Trail Blazers,10:00p
+894,"Thu, Feb 24, 2022",Denver Nuggets,Sacramento Kings,10:00p
+895,"Fri, Feb 25, 2022",Toronto Raptors,Charlotte Hornets,7:00p
+896,"Fri, Feb 25, 2022",Oklahoma City Thunder,Indiana Pacers,7:00p
+897,"Fri, Feb 25, 2022",Houston Rockets,Orlando Magic,7:00p
+898,"Fri, Feb 25, 2022",San Antonio Spurs,Washington Wizards,7:00p
+899,"Fri, Feb 25, 2022",Miami Heat,New York Knicks,7:30p
+900,"Fri, Feb 25, 2022",Philadelphia 76ers,Minnesota Timberwolves,8:00p
+901,"Fri, Feb 25, 2022",New Orleans Pelicans,Phoenix Suns,9:00p
+902,"Fri, Feb 25, 2022",Dallas Mavericks,Utah Jazz,9:00p
+903,"Fri, Feb 25, 2022",Los Angeles Clippers,Los Angeles Lakers,10:00p
+904,"Sat, Feb 26, 2022",Boston Celtics,Detroit Pistons,12:00p
+905,"Sat, Feb 26, 2022",Toronto Raptors,Atlanta Hawks,7:30p
+906,"Sat, Feb 26, 2022",Memphis Grizzlies,Chicago Bulls,8:00p
+907,"Sat, Feb 26, 2022",Washington Wizards,Cleveland Cavaliers,8:00p
+908,"Sat, Feb 26, 2022",San Antonio Spurs,Miami Heat,8:00p
+909,"Sat, Feb 26, 2022",Brooklyn Nets,Milwaukee Bucks,8:30p
+910,"Sat, Feb 26, 2022",Sacramento Kings,Denver Nuggets,9:00p
+911,"Sun, Feb 27, 2022",Philadelphia 76ers,New York Knicks,1:00p
+912,"Sun, Feb 27, 2022",Utah Jazz,Phoenix Suns,3:30p
+913,"Sun, Feb 27, 2022",Boston Celtics,Indiana Pacers,5:00p
+914,"Sun, Feb 27, 2022",Detroit Pistons,Charlotte Hornets,7:00p
+915,"Sun, Feb 27, 2022",Los Angeles Clippers,Houston Rockets,7:00p
+916,"Sun, Feb 27, 2022",Dallas Mavericks,Golden State Warriors,7:30p
+917,"Sun, Feb 27, 2022",Denver Nuggets,Portland Trail Blazers,9:00p
+918,"Sun, Feb 27, 2022",New Orleans Pelicans,Los Angeles Lakers,10:00p
+919,"Mon, Feb 28, 2022",Minnesota Timberwolves,Cleveland Cavaliers,7:00p
+920,"Mon, Feb 28, 2022",Indiana Pacers,Orlando Magic,7:00p
+921,"Mon, Feb 28, 2022",Chicago Bulls,Miami Heat,7:30p
+922,"Mon, Feb 28, 2022",San Antonio Spurs,Memphis Grizzlies,8:00p
+923,"Mon, Feb 28, 2022",Charlotte Hornets,Milwaukee Bucks,8:00p
+924,"Mon, Feb 28, 2022",Sacramento Kings,Oklahoma City Thunder,8:00p
+925,"Tue, Mar 1, 2022",Detroit Pistons,Washington Wizards,7:00p
+926,"Tue, Mar 1, 2022",Atlanta Hawks,Boston Celtics,7:30p
+927,"Tue, Mar 1, 2022",Brooklyn Nets,Toronto Raptors,7:30p
+928,"Tue, Mar 1, 2022",Los Angeles Clippers,Houston Rockets,8:00p
+929,"Tue, Mar 1, 2022",Golden State Warriors,Minnesota Timberwolves,8:00p
+930,"Tue, Mar 1, 2022",Dallas Mavericks,Los Angeles Lakers,10:00p
+931,"Wed, Mar 2, 2022",Charlotte Hornets,Cleveland Cavaliers,7:00p
+932,"Wed, Mar 2, 2022",Indiana Pacers,Orlando Magic,7:00p
+933,"Wed, Mar 2, 2022",New York Knicks,Philadelphia 76ers,7:30p
+934,"Wed, Mar 2, 2022",Utah Jazz,Houston Rockets,8:00p
+935,"Wed, Mar 2, 2022",Miami Heat,Milwaukee Bucks,8:00p
+936,"Wed, Mar 2, 2022",Sacramento Kings,New Orleans Pelicans,8:00p
+937,"Wed, Mar 2, 2022",Oklahoma City Thunder,Denver Nuggets,9:00p
+938,"Wed, Mar 2, 2022",Portland Trail Blazers,Phoenix Suns,10:00p
+939,"Thu, Mar 3, 2022",Memphis Grizzlies,Boston Celtics,7:30p
+940,"Thu, Mar 3, 2022",Miami Heat,Brooklyn Nets,7:30p
+941,"Thu, Mar 3, 2022",Detroit Pistons,Toronto Raptors,7:30p
+942,"Thu, Mar 3, 2022",Golden State Warriors,Dallas Mavericks,8:30p
+943,"Thu, Mar 3, 2022",Sacramento Kings,San Antonio Spurs,8:30p
+944,"Thu, Mar 3, 2022",Los Angeles Lakers,Los Angeles Clippers,10:00p
+945,"Fri, Mar 4, 2022",Indiana Pacers,Detroit Pistons,7:00p
+946,"Fri, Mar 4, 2022",Cleveland Cavaliers,Philadelphia 76ers,7:00p
+947,"Fri, Mar 4, 2022",Atlanta Hawks,Washington Wizards,7:00p
+948,"Fri, Mar 4, 2022",Milwaukee Bucks,Chicago Bulls,7:30p
+949,"Fri, Mar 4, 2022",Utah Jazz,New Orleans Pelicans,8:00p
+950,"Fri, Mar 4, 2022",Minnesota Timberwolves,Oklahoma City Thunder,8:00p
+951,"Fri, Mar 4, 2022",Houston Rockets,Denver Nuggets,9:00p
+952,"Fri, Mar 4, 2022",New York Knicks,Phoenix Suns,10:00p
+953,"Sat, Mar 5, 2022",Sacramento Kings,Dallas Mavericks,5:00p
+954,"Sat, Mar 5, 2022",San Antonio Spurs,Charlotte Hornets,7:00p
+955,"Sat, Mar 5, 2022",Orlando Magic,Memphis Grizzlies,8:00p
+956,"Sat, Mar 5, 2022",Philadelphia 76ers,Miami Heat,8:00p
+957,"Sat, Mar 5, 2022",Portland Trail Blazers,Minnesota Timberwolves,8:00p
+958,"Sat, Mar 5, 2022",Golden State Warriors,Los Angeles Lakers,8:30p
+959,"Sun, Mar 6, 2022",Brooklyn Nets,Boston Celtics,1:00p
+960,"Sun, Mar 6, 2022",Phoenix Suns,Milwaukee Bucks,3:30p
+961,"Sun, Mar 6, 2022",Toronto Raptors,Cleveland Cavaliers,6:00p
+962,"Sun, Mar 6, 2022",Indiana Pacers,Washington Wizards,6:00p
+963,"Sun, Mar 6, 2022",Memphis Grizzlies,Houston Rockets,7:00p
+964,"Sun, Mar 6, 2022",Utah Jazz,Oklahoma City Thunder,7:00p
+965,"Sun, Mar 6, 2022",New York Knicks,Los Angeles Clippers,7:30p
+966,"Sun, Mar 6, 2022",New Orleans Pelicans,Denver Nuggets,10:00p
+967,"Mon, Mar 7, 2022",Atlanta Hawks,Detroit Pistons,7:00p
+968,"Mon, Mar 7, 2022",Chicago Bulls,Philadelphia 76ers,7:00p
+969,"Mon, Mar 7, 2022",Houston Rockets,Miami Heat,7:30p
+970,"Mon, Mar 7, 2022",Portland Trail Blazers,Minnesota Timberwolves,8:00p
+971,"Mon, Mar 7, 2022",Utah Jazz,Dallas Mavericks,8:30p
+972,"Mon, Mar 7, 2022",Los Angeles Lakers,San Antonio Spurs,8:30p
+973,"Mon, Mar 7, 2022",New York Knicks,Sacramento Kings,10:00p
+974,"Tue, Mar 8, 2022",Brooklyn Nets,Charlotte Hornets,7:00p
+975,"Tue, Mar 8, 2022",Cleveland Cavaliers,Indiana Pacers,7:00p
+976,"Tue, Mar 8, 2022",Phoenix Suns,Orlando Magic,7:00p
+977,"Tue, Mar 8, 2022",New Orleans Pelicans,Memphis Grizzlies,7:30p
+978,"Tue, Mar 8, 2022",Milwaukee Bucks,Oklahoma City Thunder,8:00p
+979,"Tue, Mar 8, 2022",Los Angeles Clippers,Golden State Warriors,10:00p
+980,"Wed, Mar 9, 2022",Boston Celtics,Charlotte Hornets,7:00p
+981,"Wed, Mar 9, 2022",Chicago Bulls,Detroit Pistons,7:00p
+982,"Wed, Mar 9, 2022",Phoenix Suns,Miami Heat,7:30p
+983,"Wed, Mar 9, 2022",Atlanta Hawks,Milwaukee Bucks,7:30p
+984,"Wed, Mar 9, 2022",Los Angeles Lakers,Houston Rockets,8:00p
+985,"Wed, Mar 9, 2022",Oklahoma City Thunder,Minnesota Timberwolves,8:00p
+986,"Wed, Mar 9, 2022",Orlando Magic,New Orleans Pelicans,8:00p
+987,"Wed, Mar 9, 2022",New York Knicks,Dallas Mavericks,8:30p
+988,"Wed, Mar 9, 2022",Toronto Raptors,San Antonio Spurs,8:30p
+989,"Wed, Mar 9, 2022",Denver Nuggets,Sacramento Kings,10:00p
+990,"Wed, Mar 9, 2022",Portland Trail Blazers,Utah Jazz,10:00p
+991,"Wed, Mar 9, 2022",Washington Wizards,Los Angeles Clippers,10:30p
+992,"Thu, Mar 10, 2022",Brooklyn Nets,Philadelphia 76ers,7:30p
+993,"Thu, Mar 10, 2022",Golden State Warriors,Denver Nuggets,10:00p
+994,"Fri, Mar 11, 2022",Minnesota Timberwolves,Orlando Magic,7:00p
+995,"Fri, Mar 11, 2022",Los Angeles Clippers,Atlanta Hawks,7:30p
+996,"Fri, Mar 11, 2022",Detroit Pistons,Boston Celtics,7:30p
+997,"Fri, Mar 11, 2022",Dallas Mavericks,Houston Rockets,8:00p
+998,"Fri, Mar 11, 2022",New York Knicks,Memphis Grizzlies,8:00p
+999,"Fri, Mar 11, 2022",Cleveland Cavaliers,Miami Heat,8:00p
+1000,"Fri, Mar 11, 2022",Charlotte Hornets,New Orleans Pelicans,8:00p
+1001,"Fri, Mar 11, 2022",Utah Jazz,San Antonio Spurs,8:30p
+1002,"Fri, Mar 11, 2022",Toronto Raptors,Phoenix Suns,9:00p
+1003,"Fri, Mar 11, 2022",Washington Wizards,Los Angeles Lakers,10:30p
+1004,"Sat, Mar 12, 2022",Cleveland Cavaliers,Chicago Bulls,8:00p
+1005,"Sat, Mar 12, 2022",Minnesota Timberwolves,Miami Heat,8:00p
+1006,"Sat, Mar 12, 2022",Indiana Pacers,San Antonio Spurs,8:00p
+1007,"Sat, Mar 12, 2022",Milwaukee Bucks,Golden State Warriors,8:30p
+1008,"Sat, Mar 12, 2022",Toronto Raptors,Denver Nuggets,10:00p
+1009,"Sat, Mar 12, 2022",Washington Wizards,Portland Trail Blazers,10:00p
+1010,"Sat, Mar 12, 2022",Sacramento Kings,Utah Jazz,10:00p
+1011,"Sun, Mar 13, 2022",New York Knicks,Brooklyn Nets,1:00p
+1012,"Sun, Mar 13, 2022",Los Angeles Clippers,Detroit Pistons,3:00p
+1013,"Sun, Mar 13, 2022",Dallas Mavericks,Boston Celtics,3:30p
+1014,"Sun, Mar 13, 2022",Philadelphia 76ers,Orlando Magic,6:00p
+1015,"Sun, Mar 13, 2022",Indiana Pacers,Atlanta Hawks,7:00p
+1016,"Sun, Mar 13, 2022",Houston Rockets,New Orleans Pelicans,7:00p
+1017,"Sun, Mar 13, 2022",Memphis Grizzlies,Oklahoma City Thunder,7:00p
+1018,"Sun, Mar 13, 2022",Los Angeles Lakers,Phoenix Suns,8:00p
+1019,"Mon, Mar 14, 2022",Los Angeles Clippers,Cleveland Cavaliers,7:00p
+1020,"Mon, Mar 14, 2022",Portland Trail Blazers,Atlanta Hawks,7:30p
+1021,"Mon, Mar 14, 2022",Charlotte Hornets,Oklahoma City Thunder,8:00p
+1022,"Mon, Mar 14, 2022",Denver Nuggets,Philadelphia 76ers,8:00p
+1023,"Mon, Mar 14, 2022",Minnesota Timberwolves,San Antonio Spurs,8:30p
+1024,"Mon, Mar 14, 2022",Washington Wizards,Golden State Warriors,10:00p
+1025,"Mon, Mar 14, 2022",Chicago Bulls,Sacramento Kings,10:00p
+1026,"Mon, Mar 14, 2022",Toronto Raptors,Los Angeles Lakers,10:30p
+1027,"Mon, Mar 14, 2022",Milwaukee Bucks,Utah Jazz,10:30p
+1028,"Tue, Mar 15, 2022",Memphis Grizzlies,Indiana Pacers,7:00p
+1029,"Tue, Mar 15, 2022",Brooklyn Nets,Orlando Magic,7:00p
+1030,"Tue, Mar 15, 2022",Detroit Pistons,Miami Heat,7:30p
+1031,"Tue, Mar 15, 2022",Phoenix Suns,New Orleans Pelicans,8:00p
+1032,"Wed, Mar 16, 2022",Atlanta Hawks,Charlotte Hornets,7:00p
+1033,"Wed, Mar 16, 2022",Philadelphia 76ers,Cleveland Cavaliers,7:00p
+1034,"Wed, Mar 16, 2022",Denver Nuggets,Washington Wizards,7:00p
+1035,"Wed, Mar 16, 2022",Dallas Mavericks,Brooklyn Nets,7:30p
+1036,"Wed, Mar 16, 2022",Portland Trail Blazers,New York Knicks,7:30p
+1037,"Wed, Mar 16, 2022",Phoenix Suns,Houston Rockets,8:00p
+1038,"Wed, Mar 16, 2022",Los Angeles Lakers,Minnesota Timberwolves,8:00p
+1039,"Wed, Mar 16, 2022",Oklahoma City Thunder,San Antonio Spurs,8:30p
+1040,"Wed, Mar 16, 2022",Chicago Bulls,Utah Jazz,9:00p
+1041,"Wed, Mar 16, 2022",Boston Celtics,Golden State Warriors,10:00p
+1042,"Wed, Mar 16, 2022",Milwaukee Bucks,Sacramento Kings,10:00p
+1043,"Wed, Mar 16, 2022",Toronto Raptors,Los Angeles Clippers,10:30p
+1044,"Thu, Mar 17, 2022",Detroit Pistons,Orlando Magic,7:00p
+1045,"Fri, Mar 18, 2022",Dallas Mavericks,Philadelphia 76ers,7:00p
+1046,"Fri, Mar 18, 2022",Memphis Grizzlies,Atlanta Hawks,7:30p
+1047,"Fri, Mar 18, 2022",Portland Trail Blazers,Brooklyn Nets,7:30p
+1048,"Fri, Mar 18, 2022",Denver Nuggets,Cleveland Cavaliers,7:30p
+1049,"Fri, Mar 18, 2022",Washington Wizards,New York Knicks,7:30p
+1050,"Fri, Mar 18, 2022",Los Angeles Lakers,Toronto Raptors,7:30p
+1051,"Fri, Mar 18, 2022",Indiana Pacers,Houston Rockets,8:00p
+1052,"Fri, Mar 18, 2022",Oklahoma City Thunder,Miami Heat,8:00p
+1053,"Fri, Mar 18, 2022",New Orleans Pelicans,San Antonio Spurs,8:30p
+1054,"Fri, Mar 18, 2022",Los Angeles Clippers,Utah Jazz,9:00p
+1055,"Fri, Mar 18, 2022",Chicago Bulls,Phoenix Suns,10:00p
+1056,"Fri, Mar 18, 2022",Boston Celtics,Sacramento Kings,10:00p
+1057,"Sat, Mar 19, 2022",Milwaukee Bucks,Minnesota Timberwolves,5:00p
+1058,"Sat, Mar 19, 2022",Dallas Mavericks,Charlotte Hornets,7:00p
+1059,"Sat, Mar 19, 2022",Detroit Pistons,Cleveland Cavaliers,8:00p
+1060,"Sat, Mar 19, 2022",Los Angeles Lakers,Washington Wizards,8:00p
+1061,"Sun, Mar 20, 2022",Memphis Grizzlies,Houston Rockets,3:30p
+1062,"Sun, Mar 20, 2022",Portland Trail Blazers,Indiana Pacers,3:30p
+1063,"Sun, Mar 20, 2022",New Orleans Pelicans,Atlanta Hawks,6:00p
+1064,"Sun, Mar 20, 2022",Oklahoma City Thunder,Orlando Magic,6:00p
+1065,"Sun, Mar 20, 2022",Phoenix Suns,Sacramento Kings,6:00p
+1066,"Sun, Mar 20, 2022",Utah Jazz,New York Knicks,7:30p
+1067,"Sun, Mar 20, 2022",Boston Celtics,Denver Nuggets,8:00p
+1068,"Sun, Mar 20, 2022",San Antonio Spurs,Golden State Warriors,8:30p
+1069,"Sun, Mar 20, 2022",Toronto Raptors,Philadelphia 76ers,8:30p
+1070,"Mon, Mar 21, 2022",New Orleans Pelicans,Charlotte Hornets,7:00p
+1071,"Mon, Mar 21, 2022",Los Angeles Lakers,Cleveland Cavaliers,7:00p
+1072,"Mon, Mar 21, 2022",Portland Trail Blazers,Detroit Pistons,7:00p
+1073,"Mon, Mar 21, 2022",Miami Heat,Philadelphia 76ers,7:00p
+1074,"Mon, Mar 21, 2022",Utah Jazz,Brooklyn Nets,7:30p
+1075,"Mon, Mar 21, 2022",Toronto Raptors,Chicago Bulls,8:00p
+1076,"Mon, Mar 21, 2022",Washington Wizards,Houston Rockets,8:00p
+1077,"Mon, Mar 21, 2022",Boston Celtics,Oklahoma City Thunder,8:00p
+1078,"Mon, Mar 21, 2022",Minnesota Timberwolves,Dallas Mavericks,8:30p
+1079,"Tue, Mar 22, 2022",Golden State Warriors,Orlando Magic,7:00p
+1080,"Tue, Mar 22, 2022",Atlanta Hawks,New York Knicks,7:30p
+1081,"Tue, Mar 22, 2022",Chicago Bulls,Milwaukee Bucks,8:00p
+1082,"Tue, Mar 22, 2022",Los Angeles Clippers,Denver Nuggets,10:00p
+1083,"Wed, Mar 23, 2022",New York Knicks,Charlotte Hornets,7:00p
+1084,"Wed, Mar 23, 2022",Atlanta Hawks,Detroit Pistons,7:00p
+1085,"Wed, Mar 23, 2022",Sacramento Kings,Indiana Pacers,7:00p
+1086,"Wed, Mar 23, 2022",Utah Jazz,Boston Celtics,7:30p
+1087,"Wed, Mar 23, 2022",Brooklyn Nets,Memphis Grizzlies,7:30p
+1088,"Wed, Mar 23, 2022",Golden State Warriors,Miami Heat,7:30p
+1089,"Wed, Mar 23, 2022",Phoenix Suns,Minnesota Timberwolves,8:00p
+1090,"Wed, Mar 23, 2022",Orlando Magic,Oklahoma City Thunder,8:00p
+1091,"Wed, Mar 23, 2022",Houston Rockets,Dallas Mavericks,8:30p
+1092,"Wed, Mar 23, 2022",Philadelphia 76ers,Los Angeles Lakers,10:00p
+1093,"Wed, Mar 23, 2022",San Antonio Spurs,Portland Trail Blazers,10:00p
+1094,"Thu, Mar 24, 2022",Cleveland Cavaliers,Toronto Raptors,7:30p
+1095,"Thu, Mar 24, 2022",Indiana Pacers,Memphis Grizzlies,8:00p
+1096,"Thu, Mar 24, 2022",Washington Wizards,Milwaukee Bucks,8:00p
+1097,"Thu, Mar 24, 2022",Chicago Bulls,New Orleans Pelicans,8:00p
+1098,"Thu, Mar 24, 2022",Phoenix Suns,Denver Nuggets,9:00p
+1099,"Fri, Mar 25, 2022",Utah Jazz,Charlotte Hornets,7:00p
+1100,"Fri, Mar 25, 2022",Washington Wizards,Detroit Pistons,7:00p
+1101,"Fri, Mar 25, 2022",Golden State Warriors,Atlanta Hawks,7:30p
+1102,"Fri, Mar 25, 2022",New York Knicks,Miami Heat,8:00p
+1103,"Fri, Mar 25, 2022",Dallas Mavericks,Minnesota Timberwolves,8:00p
+1104,"Fri, Mar 25, 2022",Houston Rockets,Portland Trail Blazers,10:00p
+1105,"Fri, Mar 25, 2022",Philadelphia 76ers,Los Angeles Clippers,10:30p
+1106,"Sat, Mar 26, 2022",San Antonio Spurs,New Orleans Pelicans,5:00p
+1107,"Sat, Mar 26, 2022",Sacramento Kings,Orlando Magic,7:00p
+1108,"Sat, Mar 26, 2022",Indiana Pacers,Toronto Raptors,7:30p
+1109,"Sat, Mar 26, 2022",Chicago Bulls,Cleveland Cavaliers,8:00p
+1110,"Sat, Mar 26, 2022",Milwaukee Bucks,Memphis Grizzlies,8:00p
+1111,"Sat, Mar 26, 2022",Brooklyn Nets,Miami Heat,8:00p
+1112,"Sat, Mar 26, 2022",Oklahoma City Thunder,Denver Nuggets,9:00p
+1113,"Sat, Mar 26, 2022",Houston Rockets,Portland Trail Blazers,10:00p
+1114,"Sun, Mar 27, 2022",New York Knicks,Detroit Pistons,3:30p
+1115,"Sun, Mar 27, 2022",Minnesota Timberwolves,Boston Celtics,6:00p
+1116,"Sun, Mar 27, 2022",Philadelphia 76ers,Phoenix Suns,6:00p
+1117,"Sun, Mar 27, 2022",Golden State Warriors,Washington Wizards,6:00p
+1118,"Sun, Mar 27, 2022",Los Angeles Lakers,New Orleans Pelicans,7:00p
+1119,"Sun, Mar 27, 2022",Charlotte Hornets,Brooklyn Nets,7:30p
+1120,"Sun, Mar 27, 2022",Utah Jazz,Dallas Mavericks,7:30p
+1121,"Mon, Mar 28, 2022",Denver Nuggets,Charlotte Hornets,7:00p
+1122,"Mon, Mar 28, 2022",Orlando Magic,Cleveland Cavaliers,7:00p
+1123,"Mon, Mar 28, 2022",Atlanta Hawks,Indiana Pacers,7:00p
+1124,"Mon, Mar 28, 2022",Sacramento Kings,Miami Heat,7:30p
+1125,"Mon, Mar 28, 2022",Chicago Bulls,New York Knicks,7:30p
+1126,"Mon, Mar 28, 2022",Boston Celtics,Toronto Raptors,7:30p
+1127,"Mon, Mar 28, 2022",San Antonio Spurs,Houston Rockets,8:00p
+1128,"Mon, Mar 28, 2022",Golden State Warriors,Memphis Grizzlies,8:00p
+1129,"Mon, Mar 28, 2022",Oklahoma City Thunder,Portland Trail Blazers,10:00p
+1130,"Tue, Mar 29, 2022",Milwaukee Bucks,Philadelphia 76ers,7:00p
+1131,"Tue, Mar 29, 2022",Chicago Bulls,Washington Wizards,7:00p
+1132,"Tue, Mar 29, 2022",Detroit Pistons,Brooklyn Nets,7:30p
+1133,"Tue, Mar 29, 2022",Los Angeles Lakers,Dallas Mavericks,7:30p
+1134,"Tue, Mar 29, 2022",Utah Jazz,Los Angeles Clippers,10:00p
+1135,"Wed, Mar 30, 2022",Dallas Mavericks,Cleveland Cavaliers,7:00p
+1136,"Wed, Mar 30, 2022",Denver Nuggets,Indiana Pacers,7:00p
+1137,"Wed, Mar 30, 2022",Orlando Magic,Washington Wizards,7:00p
+1138,"Wed, Mar 30, 2022",Miami Heat,Boston Celtics,7:30p
+1139,"Wed, Mar 30, 2022",Charlotte Hornets,New York Knicks,7:30p
+1140,"Wed, Mar 30, 2022",Minnesota Timberwolves,Toronto Raptors,7:30p
+1141,"Wed, Mar 30, 2022",Sacramento Kings,Houston Rockets,8:00p
+1142,"Wed, Mar 30, 2022",Atlanta Hawks,Oklahoma City Thunder,8:00p
+1143,"Wed, Mar 30, 2022",Memphis Grizzlies,San Antonio Spurs,8:30p
+1144,"Wed, Mar 30, 2022",Phoenix Suns,Golden State Warriors,10:00p
+1145,"Wed, Mar 30, 2022",New Orleans Pelicans,Portland Trail Blazers,10:00p
+1146,"Thu, Mar 31, 2022",Philadelphia 76ers,Detroit Pistons,7:00p
+1147,"Thu, Mar 31, 2022",Milwaukee Bucks,Brooklyn Nets,7:30p
+1148,"Thu, Mar 31, 2022",Los Angeles Clippers,Chicago Bulls,8:00p
+1149,"Thu, Mar 31, 2022",Los Angeles Lakers,Utah Jazz,10:00p
+1150,"Fri, Apr 1, 2022",Toronto Raptors,Orlando Magic,7:00p
+1151,"Fri, Apr 1, 2022",Dallas Mavericks,Washington Wizards,7:00p
+1152,"Fri, Apr 1, 2022",Indiana Pacers,Boston Celtics,7:30p
+1153,"Fri, Apr 1, 2022",Sacramento Kings,Houston Rockets,8:00p
+1154,"Fri, Apr 1, 2022",Phoenix Suns,Memphis Grizzlies,8:00p
+1155,"Fri, Apr 1, 2022",Los Angeles Clippers,Milwaukee Bucks,8:00p
+1156,"Fri, Apr 1, 2022",Detroit Pistons,Oklahoma City Thunder,8:00p
+1157,"Fri, Apr 1, 2022",Portland Trail Blazers,San Antonio Spurs,8:30p
+1158,"Fri, Apr 1, 2022",Minnesota Timberwolves,Denver Nuggets,9:00p
+1159,"Fri, Apr 1, 2022",New Orleans Pelicans,Los Angeles Lakers,10:30p
+1160,"Sat, Apr 2, 2022",Charlotte Hornets,Philadelphia 76ers,12:30p
+1161,"Sat, Apr 2, 2022",Cleveland Cavaliers,New York Knicks,1:00p
+1162,"Sat, Apr 2, 2022",Brooklyn Nets,Atlanta Hawks,7:30p
+1163,"Sat, Apr 2, 2022",Miami Heat,Chicago Bulls,8:00p
+1164,"Sat, Apr 2, 2022",Utah Jazz,Golden State Warriors,8:30p
+1165,"Sun, Apr 3, 2022",Dallas Mavericks,Milwaukee Bucks,1:00p
+1166,"Sun, Apr 3, 2022",Washington Wizards,Boston Celtics,1:00p
+1167,"Sun, Apr 3, 2022",Denver Nuggets,Los Angeles Lakers,3:30p
+1168,"Sun, Apr 3, 2022",Detroit Pistons,Indiana Pacers,5:00p
+1169,"Sun, Apr 3, 2022",Philadelphia 76ers,Cleveland Cavaliers,6:00p
+1170,"Sun, Apr 3, 2022",New York Knicks,Orlando Magic,6:00p
+1171,"Sun, Apr 3, 2022",Minnesota Timberwolves,Houston Rockets,7:00p
+1172,"Sun, Apr 3, 2022",Miami Heat,Toronto Raptors,7:00p
+1173,"Sun, Apr 3, 2022",Portland Trail Blazers,San Antonio Spurs,7:00p
+1174,"Sun, Apr 3, 2022",Phoenix Suns,Oklahoma City Thunder,7:00p
+1175,"Sun, Apr 3, 2022",Golden State Warriors,Sacramento Kings,9:00p
+1176,"Sun, Apr 3, 2022",New Orleans Pelicans,Los Angeles Clippers,9:30p
+1177,"Tue, Apr 5, 2022",Philadelphia 76ers,Indiana Pacers,7:00p
+1178,"Tue, Apr 5, 2022",Cleveland Cavaliers,Orlando Magic,7:00p
+1179,"Tue, Apr 5, 2022",Houston Rockets,Brooklyn Nets,7:30p
+1180,"Tue, Apr 5, 2022",Charlotte Hornets,Miami Heat,7:30p
+1181,"Tue, Apr 5, 2022",Atlanta Hawks,Toronto Raptors,7:30p
+1182,"Tue, Apr 5, 2022",Milwaukee Bucks,Chicago Bulls,8:00p
+1183,"Tue, Apr 5, 2022",Washington Wizards,Minnesota Timberwolves,8:00p
+1184,"Tue, Apr 5, 2022",Portland Trail Blazers,Oklahoma City Thunder,8:00p
+1185,"Tue, Apr 5, 2022",San Antonio Spurs,Denver Nuggets,9:00p
+1186,"Tue, Apr 5, 2022",Memphis Grizzlies,Utah Jazz,9:00p
+1187,"Tue, Apr 5, 2022",New Orleans Pelicans,Sacramento Kings,10:00p
+1188,"Tue, Apr 5, 2022",Los Angeles Lakers,Phoenix Suns,10:30p
+1189,"Wed, Apr 6, 2022",Dallas Mavericks,Detroit Pistons,7:00p
+1190,"Wed, Apr 6, 2022",Brooklyn Nets,New York Knicks,7:30p
+1191,"Wed, Apr 6, 2022",Boston Celtics,Chicago Bulls,8:00p
+1192,"Wed, Apr 6, 2022",Washington Wizards,Atlanta Hawks,8:00p
+1193,"Wed, Apr 6, 2022",Oklahoma City Thunder,Utah Jazz,9:00p
+1194,"Wed, Apr 6, 2022",Phoenix Suns,Los Angeles Clippers,10:00p
+1195,"Thu, Apr 7, 2022",Orlando Magic,Charlotte Hornets,7:00p
+1196,"Thu, Apr 7, 2022",Boston Celtics,Milwaukee Bucks,7:30p
+1197,"Thu, Apr 7, 2022",Philadelphia 76ers,Toronto Raptors,7:30p
+1198,"Thu, Apr 7, 2022",San Antonio Spurs,Minnesota Timberwolves,8:00p
+1199,"Thu, Apr 7, 2022",Portland Trail Blazers,New Orleans Pelicans,8:00p
+1200,"Thu, Apr 7, 2022",Memphis Grizzlies,Denver Nuggets,9:00p
+1201,"Thu, Apr 7, 2022",Los Angeles Lakers,Golden State Warriors,10:00p
+1202,"Fri, Apr 8, 2022",New York Knicks,Washington Wizards,7:00p
+1203,"Fri, Apr 8, 2022",Milwaukee Bucks,Detroit Pistons,7:00p
+1204,"Fri, Apr 8, 2022",Cleveland Cavaliers,Brooklyn Nets,7:30p
+1205,"Fri, Apr 8, 2022",Houston Rockets,Toronto Raptors,7:30p
+1206,"Fri, Apr 8, 2022",Atlanta Hawks,Miami Heat,8:00p
+1207,"Fri, Apr 8, 2022",Charlotte Hornets,Chicago Bulls,8:00p
+1208,"Fri, Apr 8, 2022",Portland Trail Blazers,Dallas Mavericks,8:30p
+1209,"Fri, Apr 8, 2022",Phoenix Suns,Utah Jazz,9:30p
+1210,"Fri, Apr 8, 2022",Oklahoma City Thunder,Los Angeles Lakers,10:30p
+1211,"Sat, Apr 9, 2022",Sacramento Kings,Los Angeles Clippers,
+1212,"Sat, Apr 9, 2022",Golden State Warriors,San Antonio Spurs,
+1213,"Sat, Apr 9, 2022",New Orleans Pelicans,Memphis Grizzlies,
+1214,"Sat, Apr 9, 2022",Indiana Pacers,Philadelphia 76ers,
+1215,"Sun, Apr 10, 2022",Utah Jazz,Portland Trail Blazers,
+1216,"Sun, Apr 10, 2022",Sacramento Kings,Phoenix Suns,
+1217,"Sun, Apr 10, 2022",Detroit Pistons,Philadelphia 76ers,
+1218,"Sun, Apr 10, 2022",Miami Heat,Orlando Magic,
+1219,"Sun, Apr 10, 2022",Toronto Raptors,New York Knicks,
+1220,"Sun, Apr 10, 2022",Golden State Warriors,New Orleans Pelicans,
+1221,"Sun, Apr 10, 2022",Chicago Bulls,Minnesota Timberwolves,
+1222,"Sun, Apr 10, 2022",Boston Celtics,Memphis Grizzlies,
+1223,"Sun, Apr 10, 2022",Oklahoma City Thunder,Los Angeles Clippers,
+1224,"Sun, Apr 10, 2022",Atlanta Hawks,Houston Rockets,
+1225,"Sun, Apr 10, 2022",Los Angeles Lakers,Denver Nuggets,
+1226,"Sun, Apr 10, 2022",San Antonio Spurs,Dallas Mavericks,
+1227,"Sun, Apr 10, 2022",Milwaukee Bucks,Cleveland Cavaliers,
+1228,"Sun, Apr 10, 2022",Washington Wizards,Charlotte Hornets,
+1229,"Sun, Apr 10, 2022",Indiana Pacers,Brooklyn Nets,
