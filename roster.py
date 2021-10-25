@@ -1,5 +1,6 @@
 import pandas as pd
 from util import url_to_soup
+import unicodedata
 
 
 class Roster:
@@ -17,6 +18,7 @@ class Roster:
         for table in tables:
             # team_name
             team_name = table.find("div", {"class": "navbar-header"}).b.text
+            team_name = team_name.replace(" roster", "")
 
             uls = table.find_all("ul")
 
@@ -40,7 +42,8 @@ class Roster:
                 for td in tr.find_all("td"):
                     temp.append(td.text)
 
-                if temp != []:
+                if temp:
+                    temp = [unicodedata.normalize("NFKD", t).strip().split(" (")[0] for t in temp]
                     players.append(temp)
 
             d[team_name] = {
